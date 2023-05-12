@@ -43,12 +43,11 @@ for line in df.itertuples():
     )
 
     devices.append({
-        device: {
-            "retail_branding": retail_branding,
-            "marketing_name": marketing_name,
-            "model": model,
-            "name": name
-        }
+        "codename": device,
+        "retail_branding": retail_branding,
+        "marketing_name": marketing_name,
+        "model": model,
+        "name": name
     })
 
 with open("devices.json", "w") as f:
