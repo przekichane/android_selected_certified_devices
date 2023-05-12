@@ -30,7 +30,7 @@ for line in df.itertuples():
     device          = str(line[3])
     model           = str(line[4])
 
-    if not any(oem for oem in oems if retail_branding.startswith(oem)):
+    if not any(oem for oem in oems if retail_branding.lower().startswith(oem.lower())):
         continue
 
     if marketing_name.lower().startswith(retail_branding.lower()):
