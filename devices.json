@@ -2716,6 +2716,594 @@
     "name": "Asus \u98db\u99ac2 Plus (T550KLC) (ASUS_X550)"
   },
   {
+    "codename": "guybrush_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "AMD FP6 Chromebook",
+    "model": "guybrush",
+    "name": "Google AMD FP6 Chromebook (guybrush)"
+  },
+  {
+    "codename": "zork_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "AMD Raven Ridge Chromebook",
+    "model": "zork",
+    "name": "Google AMD Raven Ridge Chromebook (zork)"
+  },
+  {
+    "codename": "grunt_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "AMD Stoney Ridge Chromebook",
+    "model": "grunt",
+    "name": "Google AMD Stoney Ridge Chromebook (grunt)"
+  },
+  {
+    "codename": "kalista_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebase",
+    "model": "kalista",
+    "name": "Google Chromebase (kalista)"
+  },
+  {
+    "codename": "edgar_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebook 14 (CB3-431)",
+    "model": "Acer Chromebook 14 (CB3-431)",
+    "name": "Google Chromebook 14 (CB3-431) (Acer Chromebook 14 (CB3-431))"
+  },
+  {
+    "codename": "edgar_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebook 14 (CB3-431)",
+    "model": "Chromebook 14 (CB3-431)",
+    "name": "Google Chromebook 14 (CB3-431) (Chromebook 14 (CB3-431))"
+  },
+  {
+    "codename": "samus_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebook Pixel (2015)",
+    "model": "Google Chromebook Pixel (2015)",
+    "name": "Google Chromebook Pixel (2015) (Google Chromebook Pixel (2015))"
+  },
+  {
+    "codename": "fizz_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebox",
+    "model": "Chromebox Reference",
+    "name": "Google Chromebox (Chromebox Reference)"
+  },
+  {
+    "codename": "fizz_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebox",
+    "model": "fizz",
+    "name": "Google Chromebox (fizz)"
+  },
+  {
+    "codename": "puff_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Chromebox",
+    "model": "puff",
+    "name": "Google Chromebox (puff)"
+  },
+  {
+    "codename": "sabrina",
+    "retail_branding": "Google",
+    "marketing_name": "Chromecast Google TV",
+    "model": "Chromecast",
+    "name": "Google Chromecast Google TV (Chromecast)"
+  },
+  {
+    "codename": "boreal",
+    "retail_branding": "Google",
+    "marketing_name": "Chromecast Google TV (HD)",
+    "model": "Chromecast HD",
+    "name": "Google Chromecast Google TV (HD) (Chromecast HD)"
+  },
+  {
+    "codename": "generic_x86_arm",
+    "retail_branding": "Google",
+    "marketing_name": "Emualtor",
+    "model": "AOSP on IA Emulator",
+    "name": "Google Emualtor (AOSP on IA Emulator)"
+  },
+  {
+    "codename": "generic_x86",
+    "retail_branding": "Google",
+    "marketing_name": "Emulator",
+    "model": "Android SDK built for x86",
+    "name": "Google Emulator (Android SDK built for x86)"
+  },
+  {
+    "codename": "generic_x86_64",
+    "retail_branding": "Google",
+    "marketing_name": "Emulator",
+    "model": "Android SDK built for x86_64",
+    "name": "Google Emulator (Android SDK built for x86_64)"
+  },
+  {
+    "codename": "jgedlte",
+    "retail_branding": "Google",
+    "marketing_name": "Galaxy S4 Google Play edition",
+    "model": "GT-I9505G",
+    "name": "Google Galaxy S4 Google Play edition (GT-I9505G)"
+  },
+  {
+    "codename": "generic_x86_arm",
+    "retail_branding": "Google",
+    "marketing_name": "Google Android Emulator",
+    "model": "sdk_gphone_x86",
+    "name": "Google Android Emulator (sdk_gphone_x86)"
+  },
+  {
+    "codename": "vsoc_kiwi_x86_64",
+    "retail_branding": "Google",
+    "marketing_name": "Google Play Games on PC",
+    "model": "HPE device",
+    "name": "Google Play Games on PC (HPE device)"
+  },
+  {
+    "codename": "brya_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Alder Lake Chromebook",
+    "model": "brya",
+    "name": "Google Intel Alder Lake Chromebook (brya)"
+  },
+  {
+    "codename": "brask_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Alder Lake Chromebox",
+    "model": "brask",
+    "name": "Google Intel Alder Lake Chromebox (brask)"
+  },
+  {
+    "codename": "nissa_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Alder Lake-N Chromebook",
+    "model": "nissa",
+    "name": "Google Intel Alder Lake-N Chromebook (nissa)"
+  },
+  {
+    "codename": "rammus_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Amber Lake Y Chromebook",
+    "model": "rammus",
+    "name": "Google Intel Amber Lake Y Chromebook (rammus)"
+  },
+  {
+    "codename": "coral_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Apollo Lake Chromebook",
+    "model": "coral",
+    "name": "Google Intel Apollo Lake Chromebook (coral)"
+  },
+  {
+    "codename": "reef_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Apollo Lake Chromebook",
+    "model": "ASUS Chromebook C213NA",
+    "name": "Google Intel Apollo Lake Chromebook (ASUS Chromebook C213NA)"
+  },
+  {
+    "codename": "reef_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Apollo Lake Chromebook",
+    "model": "Intel Apollo Lake Chromebook",
+    "name": "Google Intel Apollo Lake Chromebook (Intel Apollo Lake Chromebook)"
+  },
+  {
+    "codename": "reef_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Apollo Lake Chromebook",
+    "model": "reef",
+    "name": "Google Intel Apollo Lake Chromebook (reef)"
+  },
+  {
+    "codename": "relm_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Braswell Chromebook",
+    "model": "Braswell Chrome OS Device",
+    "name": "Google Intel Braswell Chromebook (Braswell Chrome OS Device)"
+  },
+  {
+    "codename": "relm_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Braswell Chromebook",
+    "model": "Intel Braswell Chromebook",
+    "name": "Google Intel Braswell Chromebook (Intel Braswell Chromebook)"
+  },
+  {
+    "codename": "wizpig_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Braswell Chromebook",
+    "model": "Intel Braswell Chromebook",
+    "name": "Google Intel Braswell Chromebook (Intel Braswell Chromebook)"
+  },
+  {
+    "codename": "hatch_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Comet Lake U Chromebook",
+    "model": "hatch",
+    "name": "Google Intel Comet Lake U Chromebook (hatch)"
+  },
+  {
+    "codename": "octopus_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Gemini Lake Chromebook",
+    "model": "octopus",
+    "name": "Google Intel Gemini Lake Chromebook (octopus)"
+  },
+  {
+    "codename": "dedede_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Jasper Lake Chromebook",
+    "model": "dedede",
+    "name": "Google Intel Jasper Lake Chromebook (dedede)"
+  },
+  {
+    "codename": "keeby_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Jasper Lake Chromebook",
+    "model": "keeby",
+    "name": "Google Intel Jasper Lake Chromebook (keeby)"
+  },
+  {
+    "codename": "nami_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Kaby Lake U Chromebook",
+    "model": "nami",
+    "name": "Google Intel Kaby Lake U Chromebook (nami)"
+  },
+  {
+    "codename": "volteer_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Intel Tiger Lake Chromebook",
+    "model": "volteer",
+    "name": "Google Intel Tiger Lake Chromebook (volteer)"
+  },
+  {
+    "codename": "jacuzzi_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MT8183 Chromebook",
+    "model": "jacuzzi",
+    "name": "Google Mediatek MT8183 Chromebook (jacuzzi)"
+  },
+  {
+    "codename": "kukui_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MT8183 Tablet",
+    "model": "kukui",
+    "name": "Google Mediatek MT8183 Tablet (kukui)"
+  },
+  {
+    "codename": "corsola_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MT8186 Chromebook",
+    "model": "corsola",
+    "name": "Google Mediatek MT8186 Chromebook (corsola)"
+  },
+  {
+    "codename": "asurada_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MT8192 Chromebook",
+    "model": "asurada",
+    "name": "Google Mediatek MT8192 Chromebook (asurada)"
+  },
+  {
+    "codename": "cherry_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MT8195 Chromebook",
+    "model": "cherry",
+    "name": "Google Mediatek MT8195 Chromebook (cherry)"
+  },
+  {
+    "codename": "hana_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MTK8173 Chromebook",
+    "model": "Lenovo N23 Yoga/Flex 11 Chromebook",
+    "name": "Google Mediatek MTK8173 Chromebook (Lenovo N23 Yoga/Flex 11 Chromebook)"
+  },
+  {
+    "codename": "hana_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MTK8173 Chromebook",
+    "model": "Mediatek MT8173 Chromebook",
+    "name": "Google Mediatek MTK8173 Chromebook (Mediatek MT8173 Chromebook)"
+  },
+  {
+    "codename": "hana_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Mediatek MTK8173 Chromebook",
+    "model": "Mediatek MTK8173 Chromebook",
+    "name": "Google Mediatek MTK8173 Chromebook (Mediatek MTK8173 Chromebook)"
+  },
+  {
+    "codename": "sailfish",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel",
+    "model": "Pixel",
+    "name": "Google Pixel (Pixel)"
+  },
+  {
+    "codename": "walleye",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 2",
+    "model": "Pixel 2",
+    "name": "Google Pixel 2 (Pixel 2)"
+  },
+  {
+    "codename": "taimen",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 2 XL",
+    "model": "Pixel 2 XL",
+    "name": "Google Pixel 2 XL (Pixel 2 XL)"
+  },
+  {
+    "codename": "blueline",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 3",
+    "model": "Pixel 3",
+    "name": "Google Pixel 3 (Pixel 3)"
+  },
+  {
+    "codename": "crosshatch",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 3 XL",
+    "model": "Pixel 3 XL",
+    "name": "Google Pixel 3 XL (Pixel 3 XL)"
+  },
+  {
+    "codename": "sargo",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 3a",
+    "model": "Pixel 3a",
+    "name": "Google Pixel 3a (Pixel 3a)"
+  },
+  {
+    "codename": "bonito",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 3a XL",
+    "model": "Pixel 3a XL",
+    "name": "Google Pixel 3a XL (Pixel 3a XL)"
+  },
+  {
+    "codename": "flame",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 4",
+    "model": "Pixel 4",
+    "name": "Google Pixel 4 (Pixel 4)"
+  },
+  {
+    "codename": "coral",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 4 XL",
+    "model": "Pixel 4 XL",
+    "name": "Google Pixel 4 XL (Pixel 4 XL)"
+  },
+  {
+    "codename": "sunfish",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 4a",
+    "model": "Pixel 4a",
+    "name": "Google Pixel 4a (Pixel 4a)"
+  },
+  {
+    "codename": "bramble",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 4a (5G)",
+    "model": "Pixel 4a (5G)",
+    "name": "Google Pixel 4a (5G) (Pixel 4a (5G))"
+  },
+  {
+    "codename": "redfin",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 5",
+    "model": "Pixel 5",
+    "name": "Google Pixel 5 (Pixel 5)"
+  },
+  {
+    "codename": "barbet",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 5a 5G",
+    "model": "Pixel 5a",
+    "name": "Google Pixel 5a 5G (Pixel 5a)"
+  },
+  {
+    "codename": "oriole",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 6",
+    "model": "Pixel 6",
+    "name": "Google Pixel 6 (Pixel 6)"
+  },
+  {
+    "codename": "raven",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 6 Pro",
+    "model": "Pixel 6 Pro",
+    "name": "Google Pixel 6 Pro (Pixel 6 Pro)"
+  },
+  {
+    "codename": "bluejay",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 6a",
+    "model": "Pixel 6a",
+    "name": "Google Pixel 6a (Pixel 6a)"
+  },
+  {
+    "codename": "panther",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 7",
+    "model": "Pixel 7",
+    "name": "Google Pixel 7 (Pixel 7)"
+  },
+  {
+    "codename": "cheetah",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 7 Pro",
+    "model": "Pixel 7 Pro",
+    "name": "Google Pixel 7 Pro (Pixel 7 Pro)"
+  },
+  {
+    "codename": "lynx",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 7a",
+    "model": "Pixel 7a",
+    "name": "Google Pixel 7a (Pixel 7a)"
+  },
+  {
+    "codename": "dragon",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel C",
+    "model": "Pixel C",
+    "name": "Google Pixel C (Pixel C)"
+  },
+  {
+    "codename": "nocturne_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Slate",
+    "model": "Google Pixel Slate",
+    "name": "Google Pixel Slate (Google Pixel Slate)"
+  },
+  {
+    "codename": "nocturne_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Slate",
+    "model": "Pixel Slate",
+    "name": "Google Pixel Slate (Pixel Slate)"
+  },
+  {
+    "codename": "nocturne_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Slate",
+    "model": "nocturne",
+    "name": "Google Pixel Slate (nocturne)"
+  },
+  {
+    "codename": "r11",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Watch",
+    "model": "Google Pixel Watch",
+    "name": "Google Pixel Watch (Google Pixel Watch)"
+  },
+  {
+    "codename": "r11btwifi",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Watch",
+    "model": "Google Pixel Watch",
+    "name": "Google Pixel Watch (Google Pixel Watch)"
+  },
+  {
+    "codename": "marlin",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel XL",
+    "model": "Pixel XL",
+    "name": "Google Pixel XL (Pixel XL)"
+  },
+  {
+    "codename": "atlas_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixelbook",
+    "model": "Google Pixelbook Go",
+    "name": "Google Pixelbook (Google Pixelbook Go)"
+  },
+  {
+    "codename": "atlas_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixelbook",
+    "model": "atlas",
+    "name": "Google Pixelbook (atlas)"
+  },
+  {
+    "codename": "eve_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Pixelbook",
+    "model": "Google Pixelbook",
+    "name": "Google Pixelbook (Google Pixelbook)"
+  },
+  {
+    "codename": "yellowstone",
+    "retail_branding": "Google",
+    "marketing_name": "Project Tango Tablet Development Kit",
+    "model": "Project Tango Tablet Development Kit",
+    "name": "Google Project Tango Tablet Development Kit (Project Tango Tablet Development Kit)"
+  },
+  {
+    "codename": "yellowstone",
+    "retail_branding": "Google",
+    "marketing_name": "Project Tango Tablet Development Kit",
+    "model": "Yellowstone",
+    "name": "Google Project Tango Tablet Development Kit (Yellowstone)"
+  },
+  {
+    "codename": "trogdor_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Qualcomm SC7180 Chromebook",
+    "model": "trogdor",
+    "name": "Google Qualcomm SC7180 Chromebook (trogdor)"
+  },
+  {
+    "codename": "trogdor_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Qualcomm SC7180 Chromebook",
+    "model": "trogdor64",
+    "name": "Google Qualcomm SC7180 Chromebook (trogdor64)"
+  },
+  {
+    "codename": "strongbad_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Qualcomm SC7180 Detachable",
+    "model": "strongbad",
+    "name": "Google Qualcomm SC7180 Detachable (strongbad)"
+  },
+  {
+    "codename": "jerry_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Rockchip RK3288 Chromebook",
+    "model": "RK3288 Chrome OS Device",
+    "name": "Google Rockchip RK3288 Chromebook (RK3288 Chrome OS Device)"
+  },
+  {
+    "codename": "jerry_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Rockchip RK3288 Chromebook",
+    "model": "Rockchip RK3288 Chromebook",
+    "name": "Google Rockchip RK3288 Chromebook (Rockchip RK3288 Chromebook)"
+  },
+  {
+    "codename": "mighty_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Rockchip RK3288 Chromebook",
+    "model": "RK3288 Chrome OS Device",
+    "name": "Google Rockchip RK3288 Chromebook (RK3288 Chrome OS Device)"
+  },
+  {
+    "codename": "mighty_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "Rockchip RK3288 Chromebook",
+    "model": "Rockchip RK3288 Chromebook",
+    "name": "Google Rockchip RK3288 Chromebook (Rockchip RK3288 Chromebook)"
+  },
+  {
+    "codename": "generic_64bitonly_x86_64",
+    "retail_branding": "Google",
+    "marketing_name": "gcar emulator",
+    "model": "Automotive SDK built for x86_64",
+    "name": "Google gcar emulator (Automotive SDK built for x86_64)"
+  },
+  {
+    "codename": "generic_x86",
+    "retail_branding": "Google",
+    "marketing_name": "gcar emulator",
+    "model": "AOSP on x86",
+    "name": "Google gcar emulator (AOSP on x86)"
+  },
+  {
+    "codename": "generic_x86",
+    "retail_branding": "Google",
+    "marketing_name": "gcar emulator",
+    "model": "Automotive SDK built for x86",
+    "name": "Google gcar emulator (Automotive SDK built for x86)"
+  },
+  {
     "codename": "A853",
     "retail_branding": "Motorola",
     "marketing_name": "nan",
@@ -12269,6 +12857,958 @@
     "marketing_name": "realme X50 5G",
     "model": "RMX2051",
     "name": "Oppo realme X50 5G (RMX2051)"
+  },
+  {
+    "codename": "angelicain",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C3",
+    "model": "M2006C3MI",
+    "name": "POCO C3 (M2006C3MI)"
+  },
+  {
+    "codename": "angelicain",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C31",
+    "model": "211033MI",
+    "name": "POCO C31 (211033MI)"
+  },
+  {
+    "codename": "snow",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C50",
+    "model": "220733SPI",
+    "name": "POCO C50 (220733SPI)"
+  },
+  {
+    "codename": "water",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C51",
+    "model": "2302EPCC4H",
+    "name": "POCO C51 (2302EPCC4H)"
+  },
+  {
+    "codename": "earth",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C55",
+    "model": "22127PC95I",
+    "name": "POCO C55 (22127PC95I)"
+  },
+  {
+    "codename": "lmi",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F2 Pro",
+    "model": "POCO F2 Pro",
+    "name": "POCO F2 Pro (POCO F2 Pro)"
+  },
+  {
+    "codename": "alioth",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F3",
+    "model": "M2012K11AG",
+    "name": "POCO F3 (M2012K11AG)"
+  },
+  {
+    "codename": "aresin",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F3 GT",
+    "model": "M2104K10I",
+    "name": "POCO F3 GT (M2104K10I)"
+  },
+  {
+    "codename": "munch",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F4",
+    "model": "22021211RG",
+    "name": "POCO F4 (22021211RG)"
+  },
+  {
+    "codename": "munch",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F4",
+    "model": "22021211RI",
+    "name": "POCO F4 (22021211RI)"
+  },
+  {
+    "codename": "ingres",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO F4 GT",
+    "model": "21121210G",
+    "name": "POCO F4 GT (21121210G)"
+  },
+  {
+    "codename": "shiva",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M2",
+    "model": "M2004J19PI",
+    "name": "POCO M2 (M2004J19PI)"
+  },
+  {
+    "codename": "gram",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M2 Pro",
+    "model": "POCO M2 Pro",
+    "name": "POCO M2 Pro (POCO M2 Pro)"
+  },
+  {
+    "codename": "citrus",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M3",
+    "model": "M2010J19CG",
+    "name": "POCO M3 (M2010J19CG)"
+  },
+  {
+    "codename": "citrus",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M3",
+    "model": "M2010J19CI",
+    "name": "POCO M3 (M2010J19CI)"
+  },
+  {
+    "codename": "camellia",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M3 Pro 5G",
+    "model": "M2103K19PI",
+    "name": "POCO M3 Pro 5G (M2103K19PI)"
+  },
+  {
+    "codename": "camellian",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M3 Pro 5G",
+    "model": "M2103K19PG",
+    "name": "POCO M3 Pro 5G (M2103K19PG)"
+  },
+  {
+    "codename": "light",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M4 5G",
+    "model": "22041219PI",
+    "name": "POCO M4 5G (22041219PI)"
+  },
+  {
+    "codename": "thunder",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M4 5G",
+    "model": "22041219PG",
+    "name": "POCO M4 5G (22041219PG)"
+  },
+  {
+    "codename": "fleur",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M4 Pro",
+    "model": "2201117PG",
+    "name": "POCO M4 Pro (2201117PG)"
+  },
+  {
+    "codename": "miel",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M4 Pro",
+    "model": "2201117PI",
+    "name": "POCO M4 Pro (2201117PI)"
+  },
+  {
+    "codename": "evergreen",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M4 Pro 5G",
+    "model": "21091116AG",
+    "name": "POCO M4 Pro 5G (21091116AG)"
+  },
+  {
+    "codename": "rock",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M5",
+    "model": "22071219CI",
+    "name": "POCO M5 (22071219CI)"
+  },
+  {
+    "codename": "stone",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M5",
+    "model": "22071219CG",
+    "name": "POCO M5 (22071219CG)"
+  },
+  {
+    "codename": "rosemary",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO M5s",
+    "model": "2207117BPG",
+    "name": "POCO M5s (2207117BPG)"
+  },
+  {
+    "codename": "phoenixin",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X2",
+    "model": "POCO X2",
+    "name": "POCO X2 (POCO X2)"
+  },
+  {
+    "codename": "karna",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X3",
+    "model": "M2007J20CI",
+    "name": "POCO X3 (M2007J20CI)"
+  },
+  {
+    "codename": "surya",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X3 NFC",
+    "model": "M2007J20CG",
+    "name": "POCO X3 NFC (M2007J20CG)"
+  },
+  {
+    "codename": "bhima",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X3 Pro",
+    "model": "M2102J20SI",
+    "name": "POCO X3 Pro (M2102J20SI)"
+  },
+  {
+    "codename": "vayu",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X3 Pro",
+    "model": "M2102J20SG",
+    "name": "POCO X3 Pro (M2102J20SG)"
+  },
+  {
+    "codename": "xaga",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X4 GT",
+    "model": "22041216G",
+    "name": "POCO X4 GT (22041216G)"
+  },
+  {
+    "codename": "peux",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X4 Pro 5G",
+    "model": "2201116PI",
+    "name": "POCO X4 Pro 5G (2201116PI)"
+  },
+  {
+    "codename": "veux",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO X4 Pro 5G",
+    "model": "2201116PG",
+    "name": "POCO X4 Pro 5G (2201116PG)"
+  },
+  {
+    "codename": "RMX2020",
+    "retail_branding": "Realme",
+    "marketing_name": "RMX2020",
+    "model": "RMX2020",
+    "name": "Realme RMX2020 (RMX2020)"
+  },
+  {
+    "codename": "RMX2040",
+    "retail_branding": "Realme",
+    "marketing_name": "RMX2040",
+    "model": "RMX2040",
+    "name": "Realme RMX2040 (RMX2040)"
+  },
+  {
+    "codename": "RMX3063",
+    "retail_branding": "Realme",
+    "marketing_name": "RMX3063",
+    "model": "RMX3063",
+    "name": "Realme RMX3063 (RMX3063)"
+  },
+  {
+    "codename": "RMX3231",
+    "retail_branding": "Realme",
+    "marketing_name": "RMX3231",
+    "model": "RMX3231",
+    "name": "Realme RMX3231 (RMX3231)"
+  },
+  {
+    "codename": "RMX2202L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme  GT 5G",
+    "model": "RMX2202",
+    "name": "realme  GT 5G (RMX2202)"
+  },
+  {
+    "codename": "RMX1801",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 2 Pro",
+    "model": "RMX1801",
+    "name": "realme 2 Pro (RMX1801)"
+  },
+  {
+    "codename": "RMX1851",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 3Pro",
+    "model": "RMX1851",
+    "name": "realme 3Pro (RMX1851)"
+  },
+  {
+    "codename": "RMX1911L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1911",
+    "name": "realme 5 (RMX1911)"
+  },
+  {
+    "codename": "RMX1915",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1915",
+    "name": "realme 5 (RMX1915)"
+  },
+  {
+    "codename": "RMX1919",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1919",
+    "name": "realme 5 (RMX1919)"
+  },
+  {
+    "codename": "RMX1925",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1925",
+    "name": "realme 5 (RMX1925)"
+  },
+  {
+    "codename": "RMX1926",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1926",
+    "name": "realme 5 (RMX1926)"
+  },
+  {
+    "codename": "RMX1927",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5",
+    "model": "RMX1927",
+    "name": "realme 5 (RMX1927)"
+  },
+  {
+    "codename": "RMX1971",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5Pro",
+    "model": "RMX1971",
+    "name": "realme 5Pro (RMX1971)"
+  },
+  {
+    "codename": "RMX1971L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5Pro",
+    "model": "RMX1971",
+    "name": "realme 5Pro (RMX1971)"
+  },
+  {
+    "codename": "RMX2030",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5i",
+    "model": "RMX2030",
+    "name": "realme 5i (RMX2030)"
+  },
+  {
+    "codename": "RMX2030L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5i",
+    "model": "RMX2030",
+    "name": "realme 5i (RMX2030)"
+  },
+  {
+    "codename": "RMX2031",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5i",
+    "model": "RMX2031",
+    "name": "realme 5i (RMX2031)"
+  },
+  {
+    "codename": "RMX2032",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5i",
+    "model": "RMX2032",
+    "name": "realme 5i (RMX2032)"
+  },
+  {
+    "codename": "RMX1971",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5pro",
+    "model": "RMX1971",
+    "name": "realme 5pro (RMX1971)"
+  },
+  {
+    "codename": "RMX1973",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 5pro",
+    "model": "RMX1973",
+    "name": "realme 5pro (RMX1973)"
+  },
+  {
+    "codename": "RMX2001L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6",
+    "model": "RMX2001",
+    "name": "realme 6 (RMX2001)"
+  },
+  {
+    "codename": "RMX2003L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6",
+    "model": "RMX2003",
+    "name": "realme 6 (RMX2003)"
+  },
+  {
+    "codename": "RMX2063L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6Pro",
+    "model": "RMX2063",
+    "name": "realme 6Pro (RMX2063)"
+  },
+  {
+    "codename": "RMX2030",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6i",
+    "model": "RMX2190",
+    "name": "realme 6i (RMX2190)"
+  },
+  {
+    "codename": "RMX2040",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6i",
+    "model": "RMX2040",
+    "name": "realme 6i (RMX2040)"
+  },
+  {
+    "codename": "RMX2041",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6i",
+    "model": "RMX2041",
+    "name": "realme 6i (RMX2041)"
+  },
+  {
+    "codename": "RMX2042",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6i",
+    "model": "RMX2042",
+    "name": "realme 6i (RMX2042)"
+  },
+  {
+    "codename": "RMX2002L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 6s",
+    "model": "RMX2002",
+    "name": "realme 6s (RMX2002)"
+  },
+  {
+    "codename": "RMX2170L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 7 Pro",
+    "model": "RMX2170",
+    "name": "realme 7 Pro (RMX2170)"
+  },
+  {
+    "codename": "RE50C1L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 7i",
+    "model": "RMX2103",
+    "name": "realme 7i (RMX2103)"
+  },
+  {
+    "codename": "RMX2193",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 7i",
+    "model": "RMX2193",
+    "name": "realme 7i (RMX2193)"
+  },
+  {
+    "codename": "RMX3081L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 8Pro\t",
+    "model": "RMX3081",
+    "name": "realme 8Pro\t (RMX3081)"
+  },
+  {
+    "codename": "RE54B4L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme 8i",
+    "model": "RMX3151",
+    "name": "realme 8i (RMX3151)"
+  },
+  {
+    "codename": "RMX2185",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C11",
+    "model": "RMX2185",
+    "name": "realme C11 (RMX2185)"
+  },
+  {
+    "codename": "RMX2186",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C11",
+    "model": "RMX2186",
+    "name": "realme C11 (RMX2186)"
+  },
+  {
+    "codename": "RMX2184",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C12",
+    "model": "RMX2184",
+    "name": "realme C12 (RMX2184)"
+  },
+  {
+    "codename": "RMX2189",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C12",
+    "model": "RMX2189",
+    "name": "realme C12 (RMX2189)"
+  },
+  {
+    "codename": "RMX2180",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C15",
+    "model": "RMX2180",
+    "name": "realme C15 (RMX2180)"
+  },
+  {
+    "codename": "RMX2181",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C15",
+    "model": "RMX2181",
+    "name": "realme C15 (RMX2181)"
+  },
+  {
+    "codename": "RMX2183",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C15",
+    "model": "RMX2183",
+    "name": "realme C15 (RMX2183)"
+  },
+  {
+    "codename": "RECE4244",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C15 Qualcomm Edition",
+    "model": "RMX2195",
+    "name": "realme C15 Qualcomm Edition (RMX2195)"
+  },
+  {
+    "codename": "RE50BF",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C17",
+    "model": "RMX2101",
+    "name": "realme C17 (RMX2101)"
+  },
+  {
+    "codename": "RMX1946",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C2",
+    "model": "RMX1946",
+    "name": "realme C2 (RMX1946)"
+  },
+  {
+    "codename": "RMX3061",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C20",
+    "model": "RMX3061",
+    "name": "realme C20 (RMX3061)"
+  },
+  {
+    "codename": "RMX3063",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C20",
+    "model": "RMX3063",
+    "name": "realme C20 (RMX3063)"
+  },
+  {
+    "codename": "RMX3201",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C21",
+    "model": "RMX3201",
+    "name": "realme C21 (RMX3201)"
+  },
+  {
+    "codename": "RMX3202",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C21",
+    "model": "RMX3202",
+    "name": "realme C21 (RMX3202)"
+  },
+  {
+    "codename": "RMX3203L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C21",
+    "model": "RMX3203",
+    "name": "realme C21 (RMX3203)"
+  },
+  {
+    "codename": "RMX3261",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C21 Y",
+    "model": "RMX3261",
+    "name": "realme C21 Y (RMX3261)"
+  },
+  {
+    "codename": "RMX3262",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C21Y",
+    "model": "RMX3262",
+    "name": "realme C21Y (RMX3262)"
+  },
+  {
+    "codename": "RE54D1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C25Y",
+    "model": "RMX3265",
+    "name": "realme C25Y (RMX3265)"
+  },
+  {
+    "codename": "RMX2020",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C3",
+    "model": "RMX2020",
+    "name": "realme C3 (RMX2020)"
+  },
+  {
+    "codename": "RMX2021",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C3",
+    "model": "RMX2021",
+    "name": "realme C3 (RMX2021)"
+  },
+  {
+    "codename": "RMX2022",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C3",
+    "model": "RMX2022",
+    "name": "realme C3 (RMX2022)"
+  },
+  {
+    "codename": "RMX2027",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C3",
+    "model": "RMX2027",
+    "name": "realme C3 (RMX2027)"
+  },
+  {
+    "codename": "RMX2027",
+    "retail_branding": "Realme",
+    "marketing_name": "realme C3i",
+    "model": "RMX2027",
+    "name": "realme C3i (RMX2027)"
+  },
+  {
+    "codename": "RMX2202L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme GT 5G",
+    "model": "RMX2202",
+    "name": "realme GT 5G (RMX2202)"
+  },
+  {
+    "codename": "RE546F",
+    "retail_branding": "Realme",
+    "marketing_name": "realme GT Explorer Master Edition",
+    "model": "RMX3366",
+    "name": "realme GT Explorer Master Edition (RMX3366)"
+  },
+  {
+    "codename": "RE54ABL1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme GT Master Edition\t",
+    "model": "RMX3363",
+    "name": "realme GT Master Edition\t (RMX3363)"
+  },
+  {
+    "codename": "RE5473",
+    "retail_branding": "Realme",
+    "marketing_name": "realme GT Neo 2",
+    "model": "RMX3370",
+    "name": "realme GT Neo 2 (RMX3370)"
+  },
+  {
+    "codename": "RE879AL1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme GT Neo2 5G",
+    "model": "RMX3370",
+    "name": "realme GT Neo2 5G (RMX3370)"
+  },
+  {
+    "codename": "RMX2193",
+    "retail_branding": "Realme",
+    "marketing_name": "realme Narzo 20",
+    "model": "RMX2193",
+    "name": "realme Narzo 20 (RMX2193)"
+  },
+  {
+    "codename": "RE54C1L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme Pad",
+    "model": "RMP2102",
+    "name": "realme Pad (RMP2102)"
+  },
+  {
+    "codename": "RMX1971CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme Q",
+    "model": "RMX1971",
+    "name": "realme Q (RMX1971)"
+  },
+  {
+    "codename": "SW4H_FF",
+    "retail_branding": "Realme",
+    "marketing_name": "realme SA Smart TV",
+    "model": "realme SA Smart TV",
+    "name": "realme SA Smart TV (realme SA Smart TV)"
+  },
+  {
+    "codename": "SW4H_FF",
+    "retail_branding": "Realme",
+    "marketing_name": "realme Smart TV",
+    "model": "realme Smart TV",
+    "name": "realme Smart TV (realme Smart TV)"
+  },
+  {
+    "codename": "ikebukuro",
+    "retail_branding": "Realme",
+    "marketing_name": "realme TV",
+    "model": "AI PONT",
+    "name": "realme TV (AI PONT)"
+  },
+  {
+    "codename": "ikebukuro",
+    "retail_branding": "Realme",
+    "marketing_name": "realme TV 32",
+    "model": "AI PONT",
+    "name": "realme TV 32 (AI PONT)"
+  },
+  {
+    "codename": "SW4H_FF",
+    "retail_branding": "Realme",
+    "marketing_name": "realme TW Smart TV",
+    "model": "realme TW Smart TV",
+    "name": "realme TW Smart TV (realme TW Smart TV)"
+  },
+  {
+    "codename": "RMX3121CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme V11 5G",
+    "model": "RMX3121",
+    "name": "realme V11 5G (RMX3121)"
+  },
+  {
+    "codename": "RMX3122CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme V11 5G",
+    "model": "RMX3122",
+    "name": "realme V11 5G (RMX3122)"
+  },
+  {
+    "codename": "RMX2200CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme V3  5G",
+    "model": "RMX2200",
+    "name": "realme V3  5G (RMX2200)"
+  },
+  {
+    "codename": "RMX2201CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme V3 5G",
+    "model": "RMX2201",
+    "name": "realme V3 5G (RMX2201)"
+  },
+  {
+    "codename": "RMX1991CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X2",
+    "model": "RMX1991",
+    "name": "realme X2 (RMX1991)"
+  },
+  {
+    "codename": "RMX1992L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X2",
+    "model": "RMX1992",
+    "name": "realme X2 (RMX1992)"
+  },
+  {
+    "codename": "RMX1993L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X2",
+    "model": "RMX1993",
+    "name": "realme X2 (RMX1993)"
+  },
+  {
+    "codename": "RMX1931CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X2Pro",
+    "model": "RMX1931",
+    "name": "realme X2Pro (RMX1931)"
+  },
+  {
+    "codename": "RMX1931L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X2Pro",
+    "model": "RMX1931",
+    "name": "realme X2Pro (RMX1931)"
+  },
+  {
+    "codename": "RMX2081L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X3",
+    "model": "RMX2081",
+    "name": "realme X3 (RMX2081)"
+  },
+  {
+    "codename": "RMX2085L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X3",
+    "model": "RMX2085",
+    "name": "realme X3 (RMX2085)"
+  },
+  {
+    "codename": "RMX2025CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50 5G",
+    "model": "RMX2025",
+    "name": "realme X50 5G (RMX2025)"
+  },
+  {
+    "codename": "RMX2144L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50 5G",
+    "model": "RMX2144",
+    "name": "realme X50 5G (RMX2144)"
+  },
+  {
+    "codename": "RMX2071CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50 Pro",
+    "model": "RMX2071",
+    "name": "realme X50 Pro (RMX2071)"
+  },
+  {
+    "codename": "RMX2075L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50 Pro",
+    "model": "RMX2075",
+    "name": "realme X50 Pro (RMX2075)"
+  },
+  {
+    "codename": "RE508C",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50m 5G",
+    "model": "RMX2141",
+    "name": "realme X50m 5G (RMX2141)"
+  },
+  {
+    "codename": "RE508C",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50m 5G",
+    "model": "RMX2142",
+    "name": "realme X50m 5G (RMX2142)"
+  },
+  {
+    "codename": "RMX2142CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50m 5G",
+    "model": "RMX2142",
+    "name": "realme X50m 5G (RMX2142)"
+  },
+  {
+    "codename": "RE508C",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50t 5G",
+    "model": "RMX2052",
+    "name": "realme X50t 5G (RMX2052)"
+  },
+  {
+    "codename": "RMX2052CN",
+    "retail_branding": "Realme",
+    "marketing_name": "realme X50t 5G",
+    "model": "RMX2052",
+    "name": "realme X50t 5G (RMX2052)"
+  },
+  {
+    "codename": "RMX1921",
+    "retail_branding": "Realme",
+    "marketing_name": "realme XT",
+    "model": "RMX1921",
+    "name": "realme XT (RMX1921)"
+  },
+  {
+    "codename": "RMX1921L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme XT",
+    "model": "RMX1921",
+    "name": "realme XT (RMX1921)"
+  },
+  {
+    "codename": "RMX1922",
+    "retail_branding": "Realme",
+    "marketing_name": "realme XT",
+    "model": "RMX1922",
+    "name": "realme XT (RMX1922)"
+  },
+  {
+    "codename": "RMX2050",
+    "retail_branding": "Realme",
+    "marketing_name": "realme narzo 20A",
+    "model": "RMX2050",
+    "name": "realme narzo 20A (RMX2050)"
+  },
+  {
+    "codename": "RMX3171",
+    "retail_branding": "Realme",
+    "marketing_name": "realme narzo 30A",
+    "model": "RMX3171",
+    "name": "realme narzo 30A (RMX3171)"
+  },
+  {
+    "codename": "RE54C1L1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme pad",
+    "model": "RMP2103",
+    "name": "realme pad (RMP2103)"
+  },
+  {
+    "codename": "RE50C1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme\u00a07i",
+    "model": "RMX2103",
+    "name": "realme\u00a07i (RMX2103)"
+  },
+  {
+    "codename": "RE50C1",
+    "retail_branding": "Realme",
+    "marketing_name": "realme\u00a07i",
+    "model": "RMX2104",
+    "name": "realme\u00a07i (RMX2104)"
+  },
+  {
+    "codename": "RMX3116CN",
+    "retail_branding": "Realme",
+    "marketing_name": "\u771f\u6211 X7 pro\u81f3\u5c0a\u7248",
+    "model": "RMX3116",
+    "name": "Realme \u771f\u6211 X7 pro\u81f3\u5c0a\u7248 (RMX3116)"
+  },
+  {
+    "codename": "RMX2202CN",
+    "retail_branding": "Realme",
+    "marketing_name": "\u771f\u6211GT",
+    "model": "RMX2202",
+    "name": "Realme \u771f\u6211GT (RMX2202)"
+  },
+  {
+    "codename": "RE5469",
+    "retail_branding": "Realme",
+    "marketing_name": "\u771f\u6211GT Neo \u95ea\u901f\u7248",
+    "model": "RMX3350",
+    "name": "Realme \u771f\u6211GT Neo \u95ea\u901f\u7248 (RMX3350)"
+  },
+  {
+    "codename": "RE5469",
+    "retail_branding": "Realme",
+    "marketing_name": "\u771f\u6211GT Neo2T\t",
+    "model": "RMX3357",
+    "name": "Realme \u771f\u6211GT Neo2T\t (RMX3357)"
+  },
+  {
+    "codename": "RE5485",
+    "retail_branding": "Realme",
+    "marketing_name": "\u771f\u6211V11s 5G",
+    "model": "RMX3125",
+    "name": "Realme \u771f\u6211V11s 5G (RMX3125)"
   },
   {
     "codename": "lmi",
