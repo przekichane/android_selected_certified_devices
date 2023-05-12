@@ -4,12 +4,18 @@ import json
 import pandas as pd
 
 oems = (
-    "Xiaomi",
-    "Poco",
-    "Redmi",
-    "OnePlus",
+    "Asus",
+    "Google",
     "Motorola",
-    "Sony"
+    "Nothing",
+    "OnePlus",
+    "Oppo",
+    "POCO",
+    "realme",
+    "Redmi",
+    "Samsung",
+    "Sony",
+    "Xiaomi"
 )
 
 url = "http://storage.googleapis.com/play_public/supported_devices.csv"
