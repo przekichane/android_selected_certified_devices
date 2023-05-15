@@ -41601,6 +41601,13 @@
     "name": "realme GT Neo2 5G\t (RMX3370)"
   },
   {
+    "codename": "REE2B2L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme GT3 240W",
+    "model": "RMX3709",
+    "name": "realme GT3 240W (RMX3709)"
+  },
+  {
     "codename": "RMX2117L1",
     "retail_branding": "realme",
     "marketing_name": "realme Narzo 30 Pro 5G",
@@ -41711,6 +41718,13 @@
     "marketing_name": "realme V25",
     "model": "RMX3475",
     "name": "realme V25 (RMX3475)"
+  },
+  {
+    "codename": "RE584B",
+    "retail_branding": "realme",
+    "marketing_name": "realme V30",
+    "model": "RMX3618",
+    "name": "realme V30 (RMX3618)"
   },
   {
     "codename": "RE584B",
@@ -41907,6 +41921,20 @@
     "marketing_name": "realmeGT Neo5 240W",
     "model": "RMX3708",
     "name": "realmeGT Neo5 240W (RMX3708)"
+  },
+  {
+    "codename": "RE5869",
+    "retail_branding": "realme",
+    "marketing_name": "\u771f\u6211 10 Pro",
+    "model": "RMX3770",
+    "name": "realme \u771f\u6211 10 Pro (RMX3770)"
+  },
+  {
+    "codename": "RE5865",
+    "retail_branding": "realme",
+    "marketing_name": "\u771f\u6211 11 Pro+",
+    "model": "RMX3740",
+    "name": "realme \u771f\u6211 11 Pro+ (RMX3740)"
   },
   {
     "codename": "RE5489",
