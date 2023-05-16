@@ -6,6 +6,7 @@ import pandas as pd
 oems = (
     "Asus",
     "Google",
+    "Huawei",
     "Motorola",
     "Nothing",
     "OnePlus",
