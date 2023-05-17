@@ -7,6 +7,7 @@ oems = (
     "Asus",
     "Google",
     "Huawei",
+    "Honor",
     "Motorola",
     "Nothing",
     "OnePlus",
