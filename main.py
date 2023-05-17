@@ -42,14 +42,6 @@ for line in df.itertuples():
     else:
         name = f"{retail_branding} {marketing_name} ({model})"
 
-    print(
-        f"Retail Branding: {retail_branding},",
-        f"Marketing Name: {marketing_name},",
-        f"Device: {device},",
-        f"Model: {model}",
-        f"Name: {name}"
-    )
-
     devices.append({
         "codename": device,
         "retail_branding": retail_branding,
