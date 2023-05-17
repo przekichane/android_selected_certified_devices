@@ -24591,20 +24591,6 @@
     "name": "realme C21 Y (RMX3261)"
   },
   {
-    "codename": "RMX3262",
-    "retail_branding": "Realme",
-    "marketing_name": "realme C21Y",
-    "model": "RMX3262",
-    "name": "realme C21Y (RMX3262)"
-  },
-  {
-    "codename": "RE54D1",
-    "retail_branding": "Realme",
-    "marketing_name": "realme C25Y",
-    "model": "RMX3265",
-    "name": "realme C25Y (RMX3265)"
-  },
-  {
     "codename": "RMX2020",
     "retail_branding": "Realme",
     "marketing_name": "realme C3",
@@ -52570,6 +52556,13 @@
     "name": "realme C21Y (RMX3261)"
   },
   {
+    "codename": "RMX3262",
+    "retail_branding": "realme",
+    "marketing_name": "realme C21Y",
+    "model": "RMX3262",
+    "name": "realme C21Y (RMX3262)"
+  },
+  {
     "codename": "RMX3191",
     "retail_branding": "realme",
     "marketing_name": "realme C25",
@@ -52582,6 +52575,13 @@
     "marketing_name": "realme C25",
     "model": "RMX3193",
     "name": "realme C25 (RMX3193)"
+  },
+  {
+    "codename": "RE54D1",
+    "retail_branding": "realme",
+    "marketing_name": "realme C25Y",
+    "model": "RMX3265",
+    "name": "realme C25Y (RMX3265)"
   },
   {
     "codename": "RED8F6",
