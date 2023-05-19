@@ -828,30 +828,30 @@
   {
     "codename": "ASUS_I001_1",
     "retail_branding": "Asus",
-    "marketing_name": "ROG Phone ll",
+    "marketing_name": "ROG Phone II",
     "model": "ASUS_I001D",
-    "name": "Asus ROG Phone ll (ASUS_I001D)"
+    "name": "Asus ROG Phone II (ASUS_I001D)"
   },
   {
     "codename": "ASUS_I001_1",
     "retail_branding": "Asus",
-    "marketing_name": "ROG Phone ll",
+    "marketing_name": "ROG Phone II",
     "model": "ASUS_I001DC",
-    "name": "Asus ROG Phone ll (ASUS_I001DC)"
+    "name": "Asus ROG Phone II (ASUS_I001DC)"
   },
   {
     "codename": "ASUS_I001_1",
     "retail_branding": "Asus",
-    "marketing_name": "ROG Phone ll",
+    "marketing_name": "ROG Phone II",
     "model": "ASUS_I001DE",
-    "name": "Asus ROG Phone ll (ASUS_I001DE)"
+    "name": "Asus ROG Phone II (ASUS_I001DE)"
   },
   {
     "codename": "ASUS_I001_1",
     "retail_branding": "Asus",
-    "marketing_name": "ROG Phone ll",
+    "marketing_name": "ROG Phone II",
     "model": "ZS660KL",
-    "name": "Asus ROG Phone ll (ZS660KL)"
+    "name": "Asus ROG Phone II (ZS660KL)"
   },
   {
     "codename": "RTC-tablet",
@@ -3304,13 +3304,6 @@
     "name": "Google gcar emulator (Automotive SDK built for x86)"
   },
   {
-    "codename": "HNFRI",
-    "retail_branding": "Honor",
-    "marketing_name": "FRI",
-    "model": "FRI-NX9",
-    "name": "Honor FRI (FRI-NX9)"
-  },
-  {
     "codename": "HNNTH",
     "retail_branding": "Honor",
     "marketing_name": "HONOR 50",
@@ -3351,6 +3344,13 @@
     "marketing_name": "HONOR 70 Lite",
     "model": "RBN-NX1",
     "name": "HONOR 70 Lite (RBN-NX1)"
+  },
+  {
+    "codename": "HNFRI",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR Magic Vs",
+    "model": "FRI-NX9",
+    "name": "HONOR Magic Vs (FRI-NX9)"
   },
   {
     "codename": "HNANY-Q1",
@@ -17764,6 +17764,20 @@
     "marketing_name": "moto g stylus (2022)",
     "model": "motorola",
     "name": "Motorola moto g stylus (2022) (motorola)"
+  },
+  {
+    "codename": "gnevan",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g stylus (2023)",
+    "model": "moto g 5G (2022)",
+    "name": "Motorola moto g stylus (2023) (moto g 5G (2022))"
+  },
+  {
+    "codename": "gnevan",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g stylus (2023)",
+    "model": "moto g stylus (2023)",
+    "name": "Motorola moto g stylus (2023) (moto g stylus (2023))"
   },
   {
     "codename": "denver",
