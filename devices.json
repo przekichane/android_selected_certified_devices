@@ -19236,6 +19236,13 @@
     "name": "OnePlus 11 5G \u4e2d\u56fd\u7248 (PHB110)"
   },
   {
+    "codename": "OP5961L1",
+    "retail_branding": "OnePlus",
+    "marketing_name": "OnePlus 11R 5G",
+    "model": "CPH2487",
+    "name": "OnePlus 11R 5G (CPH2487)"
+  },
+  {
     "codename": "OnePlus6",
     "retail_branding": "OnePlus",
     "marketing_name": "OnePlus 6",
@@ -28987,6 +28994,13 @@
     "name": "Samsung Galaxy A54 5G (SC-53D)"
   },
   {
+    "codename": "SCG21",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A54 5G",
+    "model": "SCG21",
+    "name": "Samsung Galaxy A54 5G (SCG21)"
+  },
+  {
     "codename": "a54x",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy A54 5G",
@@ -38682,6 +38696,13 @@
     "name": "Samsung Galaxy S23 (SC-51D)"
   },
   {
+    "codename": "SCG19",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23",
+    "model": "SCG19",
+    "name": "Samsung Galaxy S23 (SCG19)"
+  },
+  {
     "codename": "dm1q",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy S23",
@@ -38736,6 +38757,13 @@
     "marketing_name": "Galaxy S23 Ultra",
     "model": "SC-52D",
     "name": "Samsung Galaxy S23 Ultra (SC-52D)"
+  },
+  {
+    "codename": "SCG20",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 Ultra",
+    "model": "SCG20",
+    "name": "Samsung Galaxy S23 Ultra (SCG20)"
   },
   {
     "codename": "dm3q",
@@ -53072,6 +53100,13 @@
     "marketing_name": "realme narzo 50i Prime",
     "model": "RMX3506",
     "name": "realme narzo 50i Prime (RMX3506)"
+  },
+  {
+    "codename": "RE58C6",
+    "retail_branding": "realme",
+    "marketing_name": "realme narzo N53",
+    "model": "RMX3761",
+    "name": "realme narzo N53 (RMX3761)"
   },
   {
     "codename": "RE54C1L1",
