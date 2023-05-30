@@ -26061,6 +26061,27 @@
     "name": "Redmi Note 12 Pro+ 5G (22101316UG)"
   },
   {
+    "codename": "ocean",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 12S",
+    "model": "2303CRA44A",
+    "name": "Redmi Note 12S (2303CRA44A)"
+  },
+  {
+    "codename": "ocean",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 12S",
+    "model": "2303ERA42L",
+    "name": "Redmi Note 12S (2303ERA42L)"
+  },
+  {
+    "codename": "sea",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 12S",
+    "model": "23030RAC7Y",
+    "name": "Redmi Note 12S (23030RAC7Y)"
+  },
+  {
     "codename": "lavender",
     "retail_branding": "Redmi",
     "marketing_name": "Redmi Note 7",
