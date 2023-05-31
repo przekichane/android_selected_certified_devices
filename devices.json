@@ -47068,11 +47068,46 @@
     "name": "Sony Xperia 10 Plus (I4293)"
   },
   {
+    "codename": "A302SO",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 10 V",
+    "model": "A302SO",
+    "name": "Sony Xperia 10 V (A302SO)"
+  },
+  {
     "codename": "SO-52D",
     "retail_branding": "Sony",
     "marketing_name": "Xperia 10 V",
     "model": "SO-52D",
     "name": "Sony Xperia 10 V (SO-52D)"
+  },
+  {
+    "codename": "SOG11",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 10 V",
+    "model": "SOG11",
+    "name": "Sony Xperia 10 V (SOG11)"
+  },
+  {
+    "codename": "XQ-DC44",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 10 V",
+    "model": "XQ-DC44",
+    "name": "Sony Xperia 10 V (XQ-DC44)"
+  },
+  {
+    "codename": "XQ-DC54",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 10 V",
+    "model": "XQ-DC54",
+    "name": "Sony Xperia 10 V (XQ-DC54)"
+  },
+  {
+    "codename": "XQ-DC72",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 10 V",
+    "model": "XQ-DC72",
+    "name": "Sony Xperia 10 V (XQ-DC72)"
   },
   {
     "codename": "901SO",
