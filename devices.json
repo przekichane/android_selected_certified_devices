@@ -38811,6 +38811,13 @@
     "codename": "dm3q",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy S23 Ultra",
+    "model": "SM-S918Q",
+    "name": "Samsung Galaxy S23 Ultra (SM-S918Q)"
+  },
+  {
+    "codename": "dm3q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 Ultra",
     "model": "SM-S918U",
     "name": "Samsung Galaxy S23 Ultra (SM-S918U)"
   },
@@ -52792,6 +52799,13 @@
     "marketing_name": "realme C35",
     "model": "RMX3513",
     "name": "realme C35 (RMX3513)"
+  },
+  {
+    "codename": "RE58C2",
+    "retail_branding": "realme",
+    "marketing_name": "realme C53",
+    "model": "RMX3760",
+    "name": "realme C53 (RMX3760)"
   },
   {
     "codename": "REE2ADL1",
