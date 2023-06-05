@@ -18529,6 +18529,20 @@
     "name": "Motorola moto p30 play (XT1941-2)"
   },
   {
+    "codename": "lynkco",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto razr 40",
+    "model": "XT2323-3",
+    "name": "Motorola moto razr 40 (XT2323-3)"
+  },
+  {
+    "codename": "zeekr",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto razr 40 Ultra",
+    "model": "XT2321-2",
+    "name": "Motorola moto razr 40 Ultra (XT2321-2)"
+  },
+  {
     "codename": "mototabg20",
     "retail_branding": "Motorola",
     "marketing_name": "moto tab g20",
