@@ -21623,6 +21623,13 @@
     "name": "Oppo CPH2473 (CPH2473)"
   },
   {
+    "codename": "OP56E7L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "CPH2527",
+    "model": "CPH2527",
+    "name": "Oppo CPH2527 (CPH2527)"
+  },
+  {
     "codename": "OP4883",
     "retail_branding": "Oppo",
     "marketing_name": "F11",
@@ -26108,6 +26115,13 @@
     "marketing_name": "Redmi Note 12S",
     "model": "23030RAC7Y",
     "name": "Redmi Note 12S (23030RAC7Y)"
+  },
+  {
+    "codename": "pearl",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 12T Pro",
+    "model": "23054RA19C",
+    "name": "Redmi Note 12T Pro (23054RA19C)"
   },
   {
     "codename": "lavender",
@@ -52260,6 +52274,13 @@
     "marketing_name": "Xiaomi TV stick 4K",
     "model": "MiTV-AYFR0",
     "name": "Xiaomi TV stick 4K (MiTV-AYFR0)"
+  },
+  {
+    "codename": "yuechu",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi civi 3",
+    "model": "23046PNC9C",
+    "name": "Xiaomi civi 3 (23046PNC9C)"
   },
   {
     "codename": "ziyi",
