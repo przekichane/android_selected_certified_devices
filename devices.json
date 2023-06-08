@@ -18823,6 +18823,20 @@
     "name": "motorola edge \u8f7b\u5962\u7248 (XT2143-1)"
   },
   {
+    "codename": "rtwo",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge+ (2023)",
+    "model": "motorola edge plus (2022)",
+    "name": "motorola edge+ (2023) (motorola edge plus (2022))"
+  },
+  {
+    "codename": "rtwo",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge+ (2023)",
+    "model": "motorola edge plus 2023",
+    "name": "motorola edge+ (2023) (motorola edge plus 2023)"
+  },
+  {
     "codename": "nio",
     "retail_branding": "Motorola",
     "marketing_name": "motorola egde s",
@@ -19010,6 +19024,20 @@
     "marketing_name": "motorola razr 2022",
     "model": "motorola razr 2022",
     "name": "motorola razr 2022 (motorola razr 2022)"
+  },
+  {
+    "codename": "zeekr",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola razr 40 ultra",
+    "model": "motorola razr 2022",
+    "name": "motorola razr 40 ultra (motorola razr 2022)"
+  },
+  {
+    "codename": "zeekr",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola razr 40 ultra",
+    "model": "motorola razr 40 ultra",
+    "name": "motorola razr 40 ultra (motorola razr 40 ultra)"
   },
   {
     "codename": "smith",
