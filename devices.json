@@ -52374,6 +52374,13 @@
     "name": "realme RMX3710 (RMX3710)"
   },
   {
+    "codename": "RE58B8L1",
+    "retail_branding": "realme",
+    "marketing_name": "RMX3771",
+    "model": "RMX3771",
+    "name": "realme RMX3771 (RMX3771)"
+  },
+  {
     "codename": "mateo",
     "retail_branding": "realme",
     "marketing_name": "Smart TV",
@@ -52493,6 +52500,13 @@
     "name": "realme 10 Pro 5G (RMX3661)"
   },
   {
+    "codename": "RE58B8L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 10 Pro 5G",
+    "model": "RMX3771",
+    "name": "realme 10 Pro 5G (RMX3771)"
+  },
+  {
     "codename": "RE58A5L1",
     "retail_branding": "realme",
     "marketing_name": "realme 10 Pro+ 5G",
@@ -52512,6 +52526,20 @@
     "marketing_name": "realme 10s",
     "model": "RMX3617",
     "name": "realme 10s (RMX3617)"
+  },
+  {
+    "codename": "RE58B8L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11 Pro 5G",
+    "model": "RMX3771",
+    "name": "realme 11 Pro 5G (RMX3771)"
+  },
+  {
+    "codename": "RE58B6L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11 Pro+ 5G",
+    "model": "RMX3741",
+    "name": "realme 11 Pro+ 5G (RMX3741)"
   },
   {
     "codename": "RMX2001L1",
