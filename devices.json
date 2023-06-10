@@ -18795,6 +18795,20 @@
     "name": "motorola edge plus (2022) (motorola edge plus (2022))"
   },
   {
+    "codename": "rtwo",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge plus 2023",
+    "model": "motorola edge plus (2022)",
+    "name": "motorola edge plus 2023 (motorola edge plus (2022))"
+  },
+  {
+    "codename": "rtwo",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge plus 2023",
+    "model": "motorola edge plus 2023",
+    "name": "motorola edge plus 2023 (motorola edge plus 2023)"
+  },
+  {
     "codename": "hiphi",
     "retail_branding": "Motorola",
     "marketing_name": "motorola edge plus 5G UW (2022)",
@@ -18821,20 +18835,6 @@
     "marketing_name": "motorola edge \u8f7b\u5962\u7248",
     "model": "XT2143-1",
     "name": "motorola edge \u8f7b\u5962\u7248 (XT2143-1)"
-  },
-  {
-    "codename": "rtwo",
-    "retail_branding": "Motorola",
-    "marketing_name": "motorola edge+ (2023)",
-    "model": "motorola edge plus (2022)",
-    "name": "motorola edge+ (2023) (motorola edge plus (2022))"
-  },
-  {
-    "codename": "rtwo",
-    "retail_branding": "Motorola",
-    "marketing_name": "motorola edge+ (2023)",
-    "model": "motorola edge plus 2023",
-    "name": "motorola edge+ (2023) (motorola edge plus 2023)"
   },
   {
     "codename": "nio",
@@ -19045,6 +19045,20 @@
     "marketing_name": "motorola razr 5G",
     "model": "motorola razr 5G",
     "name": "motorola razr 5G (motorola razr 5G)"
+  },
+  {
+    "codename": "zeekr",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola razr plus 2023",
+    "model": "motorola razr 2022",
+    "name": "motorola razr plus 2023 (motorola razr 2022)"
+  },
+  {
+    "codename": "zeekr",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola razr plus 2023",
+    "model": "motorola razr plus 2023",
+    "name": "motorola razr plus 2023 (motorola razr plus 2023)"
   },
   {
     "codename": "EVOLVE",
