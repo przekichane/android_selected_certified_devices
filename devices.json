@@ -19103,6 +19103,13 @@
     "name": "Motorola Solutions LEX L11 (LEX L11j)"
   },
   {
+    "codename": "lexl11g_64",
+    "retail_branding": "Motorola Solutions",
+    "marketing_name": "LEX L11",
+    "model": "LEX L11l",
+    "name": "Motorola Solutions LEX L11 (LEX L11l)"
+  },
+  {
     "codename": "mkz_sdm660_64",
     "retail_branding": "Motorola Solutions",
     "marketing_name": "MOTOTRBO ION",
@@ -52554,6 +52561,20 @@
     "marketing_name": "realme 11 Pro+ 5G",
     "model": "RMX3741",
     "name": "realme 11 Pro+ 5G (RMX3741)"
+  },
+  {
+    "codename": "SW6H",
+    "retail_branding": "realme",
+    "marketing_name": "realme 4K G Smart TV",
+    "model": "realme 4K G Smart TV",
+    "name": "realme 4K G Smart TV (realme 4K G Smart TV)"
+  },
+  {
+    "codename": "SW6H",
+    "retail_branding": "realme",
+    "marketing_name": "realme 4K G Smart TV FF",
+    "model": "realme 4K G Smart TV FF",
+    "name": "realme 4K G Smart TV FF (realme 4K G Smart TV FF)"
   },
   {
     "codename": "RMX2001L1",
