@@ -46977,11 +46977,25 @@
     "name": "Sony Xperia 1 Professional Edition (J9150)"
   },
   {
+    "codename": "A301SO",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 1 V",
+    "model": "A301SO",
+    "name": "Sony Xperia 1 V (A301SO)"
+  },
+  {
     "codename": "SO-51D",
     "retail_branding": "Sony",
     "marketing_name": "Xperia 1 V",
     "model": "SO-51D",
     "name": "Sony Xperia 1 V (SO-51D)"
+  },
+  {
+    "codename": "SOG10",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 1 V",
+    "model": "SOG10",
+    "name": "Sony Xperia 1 V (SOG10)"
   },
   {
     "codename": "XQ-DQ72",
