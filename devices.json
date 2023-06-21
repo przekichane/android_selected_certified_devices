@@ -3178,6 +3178,13 @@
     "name": "Google Pixel Slate (nocturne)"
   },
   {
+    "codename": "tangorpro",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Tablet",
+    "model": "Pixel Tablet",
+    "name": "Google Pixel Tablet (Pixel Tablet)"
+  },
+  {
     "codename": "r11",
     "retail_branding": "Google",
     "marketing_name": "Pixel Watch",
