@@ -25354,6 +25354,34 @@
     "name": "Redmi 11 Prime 5G (22041219I)"
   },
   {
+    "codename": "fire",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 12",
+    "model": "23053RN02A",
+    "name": "Redmi 12 (23053RN02A)"
+  },
+  {
+    "codename": "fire",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 12",
+    "model": "23053RN02I",
+    "name": "Redmi 12 (23053RN02I)"
+  },
+  {
+    "codename": "fire",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 12",
+    "model": "23053RN02L",
+    "name": "Redmi 12 (23053RN02L)"
+  },
+  {
+    "codename": "heat",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 12",
+    "model": "23053RN02Y",
+    "name": "Redmi 12 (23053RN02Y)"
+  },
+  {
     "codename": "aether",
     "retail_branding": "Redmi",
     "marketing_name": "Redmi 12C",
