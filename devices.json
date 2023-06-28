@@ -3157,6 +3157,13 @@
     "name": "Google Pixel C (Pixel C)"
   },
   {
+    "codename": "felix",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Fold",
+    "model": "Pixel Fold",
+    "name": "Google Pixel Fold (Pixel Fold)"
+  },
+  {
     "codename": "nocturne_cheets",
     "retail_branding": "Google",
     "marketing_name": "Pixel Slate",
