@@ -2632,6 +2632,13 @@
     "name": "Asus Zenbo Qrobot (Zenbo)"
   },
   {
+    "codename": "ASUS_AI2302",
+    "retail_branding": "Asus",
+    "marketing_name": "Zenfone 10 (VanGogh)",
+    "model": "ASUS_AI2302",
+    "name": "Asus Zenfone 10 (VanGogh) (ASUS_AI2302)"
+  },
+  {
     "codename": "ASUS_I006D",
     "retail_branding": "Asus",
     "marketing_name": "Zenfone 8 / ASUS 8Z",
@@ -45211,6 +45218,34 @@
     "marketing_name": "Galaxy Watch5 Pro",
     "model": "SM-R925U",
     "name": "Samsung Galaxy Watch5 Pro (SM-R925U)"
+  },
+  {
+    "codename": "fresh6bl",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6",
+    "model": "SM-R940",
+    "name": "Samsung Galaxy Watch6 (SM-R940)"
+  },
+  {
+    "codename": "fresh6bs",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6",
+    "model": "SM-R930",
+    "name": "Samsung Galaxy Watch6 (SM-R930)"
+  },
+  {
+    "codename": "wise6bl",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6 Classic",
+    "model": "SM-R960",
+    "name": "Samsung Galaxy Watch6 Classic (SM-R960)"
+  },
+  {
+    "codename": "wise6bs",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6 Classic",
+    "model": "SM-R950",
+    "name": "Samsung Galaxy Watch6 Classic (SM-R950)"
   },
   {
     "codename": "on7nlteskt",
