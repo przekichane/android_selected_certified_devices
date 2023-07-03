@@ -2634,9 +2634,9 @@
   {
     "codename": "ASUS_AI2302",
     "retail_branding": "Asus",
-    "marketing_name": "Zenfone 10 (VanGogh)",
+    "marketing_name": "Zenfone 10 (AI2302)",
     "model": "ASUS_AI2302",
-    "name": "Asus Zenfone 10 (VanGogh) (ASUS_AI2302)"
+    "name": "Asus Zenfone 10 (AI2302) (ASUS_AI2302)"
   },
   {
     "codename": "ASUS_I006D",
@@ -3624,6 +3624,13 @@
     "marketing_name": "HONOR X9a 5G",
     "model": "RMO-NX1",
     "name": "HONOR X9a 5G (RMO-NX1)"
+  },
+  {
+    "codename": "HNRBN-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "RBN-NX1",
+    "model": "RBN-NX1",
+    "name": "Honor RBN-NX1 (RBN-NX1)"
   },
   {
     "codename": "C8600",
@@ -34594,6 +34601,34 @@
     "name": "Samsung Galaxy M33 5G (SM-M336BU)"
   },
   {
+    "codename": "m34x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy M34 5G",
+    "model": "SM-E346B",
+    "name": "Samsung Galaxy M34 5G (SM-E346B)"
+  },
+  {
+    "codename": "m34x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy M34 5G",
+    "model": "SM-M346B",
+    "name": "Samsung Galaxy M34 5G (SM-M346B)"
+  },
+  {
+    "codename": "m34x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy M34 5G",
+    "model": "SM-M346B1",
+    "name": "Samsung Galaxy M34 5G (SM-M346B1)"
+  },
+  {
+    "codename": "m34x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy M34 5G",
+    "model": "SM-M346B2",
+    "name": "Samsung Galaxy M34 5G (SM-M346B2)"
+  },
+  {
     "codename": "m40",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy M40",
@@ -45218,34 +45253,6 @@
     "marketing_name": "Galaxy Watch5 Pro",
     "model": "SM-R925U",
     "name": "Samsung Galaxy Watch5 Pro (SM-R925U)"
-  },
-  {
-    "codename": "fresh6bl",
-    "retail_branding": "Samsung",
-    "marketing_name": "Galaxy Watch6",
-    "model": "SM-R940",
-    "name": "Samsung Galaxy Watch6 (SM-R940)"
-  },
-  {
-    "codename": "fresh6bs",
-    "retail_branding": "Samsung",
-    "marketing_name": "Galaxy Watch6",
-    "model": "SM-R930",
-    "name": "Samsung Galaxy Watch6 (SM-R930)"
-  },
-  {
-    "codename": "wise6bl",
-    "retail_branding": "Samsung",
-    "marketing_name": "Galaxy Watch6 Classic",
-    "model": "SM-R960",
-    "name": "Samsung Galaxy Watch6 Classic (SM-R960)"
-  },
-  {
-    "codename": "wise6bs",
-    "retail_branding": "Samsung",
-    "marketing_name": "Galaxy Watch6 Classic",
-    "model": "SM-R950",
-    "name": "Samsung Galaxy Watch6 Classic (SM-R950)"
   },
   {
     "codename": "on7nlteskt",
