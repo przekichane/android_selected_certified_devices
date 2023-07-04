@@ -3374,6 +3374,20 @@
     "name": "HONOR 90 (REA-NX9)"
   },
   {
+    "codename": "HNCRT-M2",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR 90 Lite",
+    "model": "CRT-NX1",
+    "name": "HONOR 90 Lite (CRT-NX1)"
+  },
+  {
+    "codename": "HNCRT-M2",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR 90 Lite",
+    "model": "CRT-NX3",
+    "name": "HONOR 90 Lite (CRT-NX3)"
+  },
+  {
     "codename": "HNFRI",
     "retail_branding": "Honor",
     "marketing_name": "HONOR Magic Vs",
@@ -3456,6 +3470,13 @@
     "marketing_name": "HONOR Pad X8 Lite",
     "model": "AGM-W09HN",
     "name": "HONOR Pad X8 Lite (AGM-W09HN)"
+  },
+  {
+    "codename": "HNELN-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR Pad X9",
+    "model": "ELN-W09",
+    "name": "HONOR Pad X9 (ELN-W09)"
   },
   {
     "codename": "HNVNA-M",
