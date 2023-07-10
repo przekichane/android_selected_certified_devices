@@ -31647,6 +31647,13 @@
     "name": "Samsung Galaxy F23 5G (SM-E236B)"
   },
   {
+    "codename": "m34x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy F34 5G",
+    "model": "SM-E346B",
+    "name": "Samsung Galaxy F34 5G (SM-E346B)"
+  },
+  {
     "codename": "f41",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy F41",
@@ -34634,13 +34641,6 @@
     "marketing_name": "Galaxy M33 5G",
     "model": "SM-M336BU",
     "name": "Samsung Galaxy M33 5G (SM-M336BU)"
-  },
-  {
-    "codename": "m34x",
-    "retail_branding": "Samsung",
-    "marketing_name": "Galaxy M34 5G",
-    "model": "SM-E346B",
-    "name": "Samsung Galaxy M34 5G (SM-E346B)"
   },
   {
     "codename": "m34x",
