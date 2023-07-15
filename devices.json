@@ -19238,9 +19238,23 @@
   {
     "codename": "Spacewar",
     "retail_branding": "Nothing",
-    "marketing_name": "Nothing phone (1)",
+    "marketing_name": "Nothing Phone (1)",
     "model": "A063",
-    "name": "Nothing phone (1) (A063)"
+    "name": "Nothing Phone (1) (A063)"
+  },
+  {
+    "codename": "Pong",
+    "retail_branding": "Nothing",
+    "marketing_name": "Nothing Phone (2)",
+    "model": "A065",
+    "name": "Nothing Phone (2) (A065)"
+  },
+  {
+    "codename": "Pong",
+    "retail_branding": "Nothing",
+    "marketing_name": "Nothing Phone (2)",
+    "model": "AIN065",
+    "name": "Nothing Phone (2) (AIN065)"
   },
   {
     "codename": "OnePlus2",
@@ -19754,32 +19768,18 @@
     "name": "OnePlus 9 Pro 5G (LE2127)"
   },
   {
-    "codename": "OnePlus9Pro",
-    "retail_branding": "OnePlus",
-    "marketing_name": "OnePlus 9Pro 5G",
-    "model": "LE2120",
-    "name": "OnePlus 9Pro 5G (LE2120)"
-  },
-  {
-    "codename": "OnePlus9Pro",
-    "retail_branding": "OnePlus",
-    "marketing_name": "OnePlus 9Pro 5G",
-    "model": "LE2123",
-    "name": "OnePlus 9Pro 5G (LE2123)"
-  },
-  {
-    "codename": "OnePlus9Pro",
-    "retail_branding": "OnePlus",
-    "marketing_name": "OnePlus 9Pro 5G",
-    "model": "LE2125",
-    "name": "OnePlus 9Pro 5G (LE2125)"
-  },
-  {
     "codename": "OnePlus9R",
     "retail_branding": "OnePlus",
     "marketing_name": "OnePlus 9R",
     "model": "LE2100",
     "name": "OnePlus 9R (LE2100)"
+  },
+  {
+    "codename": "OnePlus9R",
+    "retail_branding": "OnePlus",
+    "marketing_name": "OnePlus 9R",
+    "model": "LE2101",
+    "name": "OnePlus 9R (LE2101)"
   },
   {
     "codename": "OP5154L1",
@@ -20095,20 +20095,6 @@
     "marketing_name": "OnePlus6T",
     "model": "ONEPLUS A6013",
     "name": "OnePlus6T (ONEPLUS A6013)"
-  },
-  {
-    "codename": "OnePlus9R",
-    "retail_branding": "OnePlus",
-    "marketing_name": "OnePlus9R",
-    "model": "LE2100",
-    "name": "OnePlus9R (LE2100)"
-  },
-  {
-    "codename": "OnePlus9R",
-    "retail_branding": "OnePlus",
-    "marketing_name": "OnePlus9R",
-    "model": "LE2101",
-    "name": "OnePlus9R (LE2101)"
   },
   {
     "codename": "Oneplus_Dosa_IN",
