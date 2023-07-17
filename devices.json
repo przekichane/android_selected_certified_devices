@@ -27517,6 +27517,13 @@
     "name": "Samsung Galaxy A11 (SM-A115W)"
   },
   {
+    "codename": "a11q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A11",
+    "model": "SM-S115DL",
+    "name": "Samsung Galaxy A11 (SM-S115DL)"
+  },
+  {
     "codename": "a12",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy A12",
