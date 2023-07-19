@@ -52563,6 +52563,13 @@
     "name": "Xiaomi civi2 (2209129SC)"
   },
   {
+    "codename": "pipa",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi pad 6",
+    "model": "23043RP34G",
+    "name": "Xiaomi pad 6 (23043RP34G)"
+  },
+  {
     "codename": "liuqin",
     "retail_branding": "Xiaomi",
     "marketing_name": "Xiaomi pad 6 Pro",
@@ -52771,6 +52778,13 @@
     "marketing_name": "realme 10s",
     "model": "RMX3617",
     "name": "realme 10s (RMX3617)"
+  },
+  {
+    "codename": "RE5852",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11",
+    "model": "RMX3751",
+    "name": "realme 11 (RMX3751)"
   },
   {
     "codename": "RE58B8L1",
@@ -53534,6 +53548,13 @@
     "marketing_name": "realme narzo 50i Prime",
     "model": "RMX3506",
     "name": "realme narzo 50i Prime (RMX3506)"
+  },
+  {
+    "codename": "RE58B1L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme narzo 60 5G",
+    "model": "RMX3750",
+    "name": "realme narzo 60 5G (RMX3750)"
   },
   {
     "codename": "RE58C6",
