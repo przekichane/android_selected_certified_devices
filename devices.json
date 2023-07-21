@@ -15620,6 +15620,13 @@
     "codename": "stanford",
     "retail_branding": "Motorola",
     "marketing_name": "MOTOROLA",
+    "model": "SMART TV",
+    "name": "MOTOROLA (SMART TV)"
+  },
+  {
+    "codename": "stanford",
+    "retail_branding": "Motorola",
+    "marketing_name": "MOTOROLA",
     "model": "Smart FHD TV",
     "name": "MOTOROLA (Smart FHD TV)"
   },
