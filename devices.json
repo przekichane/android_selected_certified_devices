@@ -18515,6 +18515,20 @@
     "name": "Motorola moto g62 5G (moto g62 5G)"
   },
   {
+    "codename": "rhodei",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g62 5G",
+    "model": "moto g62 5G",
+    "name": "Motorola moto g62 5G (moto g62 5G)"
+  },
+  {
+    "codename": "rhodei",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g62 5G",
+    "model": "moto g71 5G",
+    "name": "Motorola moto g62 5G (moto g71 5G)"
+  },
+  {
     "codename": "corfur",
     "retail_branding": "Motorola",
     "marketing_name": "moto g71 5G",
@@ -53191,6 +53205,13 @@
     "marketing_name": "realme C53",
     "model": "RMX3760",
     "name": "realme C53 (RMX3760)"
+  },
+  {
+    "codename": "RE58CE",
+    "retail_branding": "realme",
+    "marketing_name": "realme C53",
+    "model": "RMX3762",
+    "name": "realme C53 (RMX3762)"
   },
   {
     "codename": "REE2ADL1",
