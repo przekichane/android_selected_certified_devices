@@ -29067,6 +29067,13 @@
     "codename": "a51",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy A51",
+    "model": "SM-A515X",
+    "name": "Samsung Galaxy A51 (SM-A515X)"
+  },
+  {
+    "codename": "a51",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A51",
     "model": "SM-S515DL",
     "name": "Samsung Galaxy A51 (SM-S515DL)"
   },
@@ -29748,6 +29755,13 @@
     "marketing_name": "Galaxy A71",
     "model": "SM-A715W",
     "name": "Samsung Galaxy A71 (SM-A715W)"
+  },
+  {
+    "codename": "a71",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A71",
+    "model": "SM-A715X",
+    "name": "Samsung Galaxy A71 (SM-A715X)"
   },
   {
     "codename": "a71x",
@@ -34734,6 +34748,13 @@
     "name": "Samsung Galaxy M53 5G (SM-M536B)"
   },
   {
+    "codename": "m54x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy M54 5G",
+    "model": "SM-M546B",
+    "name": "Samsung Galaxy M54 5G (SM-M546B)"
+  },
+  {
     "codename": "m62",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy M62",
@@ -35705,6 +35726,13 @@
     "marketing_name": "Galaxy Note10 Lite",
     "model": "SM-N770F",
     "name": "Samsung Galaxy Note10 Lite (SM-N770F)"
+  },
+  {
+    "codename": "r7",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Note10 Lite",
+    "model": "SM-N770X",
+    "name": "Samsung Galaxy Note10 Lite (SM-N770X)"
   },
   {
     "codename": "SC-01M",
