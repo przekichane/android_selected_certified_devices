@@ -19126,6 +19126,13 @@
   {
     "codename": "lynkco",
     "retail_branding": "Motorola",
+    "marketing_name": "motorola razr 2023",
+    "model": "motorola razr 2023",
+    "name": "motorola razr 2023 (motorola razr 2023)"
+  },
+  {
+    "codename": "lynkco",
+    "retail_branding": "Motorola",
     "marketing_name": "motorola razr 40",
     "model": "motorola razr 2022",
     "name": "motorola razr 40 (motorola razr 2022)"
@@ -24267,6 +24274,13 @@
     "marketing_name": "POCO C51",
     "model": "2302EPCC4H",
     "name": "POCO C51 (2302EPCC4H)"
+  },
+  {
+    "codename": "water",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C51",
+    "model": "2305EPCC4G",
+    "name": "POCO C51 (2305EPCC4G)"
   },
   {
     "codename": "earth",
@@ -43960,6 +43974,83 @@
     "name": "Samsung Galaxy Tab S8+ 5G (SM-X808U)"
   },
   {
+    "codename": "gts9wifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9",
+    "model": "SM-X710",
+    "name": "Samsung Galaxy Tab S9 (SM-X710)"
+  },
+  {
+    "codename": "gts9",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 5G",
+    "model": "SM-X716B",
+    "name": "Samsung Galaxy Tab S9 5G (SM-X716B)"
+  },
+  {
+    "codename": "gts9",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 5G",
+    "model": "SM-X716N",
+    "name": "Samsung Galaxy Tab S9 5G (SM-X716N)"
+  },
+  {
+    "codename": "gts9uwifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 Ultra",
+    "model": "SM-X910",
+    "name": "Samsung Galaxy Tab S9 Ultra (SM-X910)"
+  },
+  {
+    "codename": "gts9u",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 Ultra 5G",
+    "model": "SM-X916B",
+    "name": "Samsung Galaxy Tab S9 Ultra 5G (SM-X916B)"
+  },
+  {
+    "codename": "gts9u",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 Ultra 5G",
+    "model": "SM-X916C",
+    "name": "Samsung Galaxy Tab S9 Ultra 5G (SM-X916C)"
+  },
+  {
+    "codename": "gts9u",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 Ultra 5G",
+    "model": "SM-X916N",
+    "name": "Samsung Galaxy Tab S9 Ultra 5G (SM-X916N)"
+  },
+  {
+    "codename": "gts9pwifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9+",
+    "model": "SM-X810",
+    "name": "Samsung Galaxy Tab S9+ (SM-X810)"
+  },
+  {
+    "codename": "gts9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9+ 5G",
+    "model": "SM-X816B",
+    "name": "Samsung Galaxy Tab S9+ 5G (SM-X816B)"
+  },
+  {
+    "codename": "gts9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9+ 5G",
+    "model": "SM-X816N",
+    "name": "Samsung Galaxy Tab S9+ 5G (SM-X816N)"
+  },
+  {
+    "codename": "gts9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9+ 5G",
+    "model": "SM-X818U",
+    "name": "Samsung Galaxy Tab S9+ 5G (SM-X818U)"
+  },
+  {
     "codename": "espresso10att",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab2 10.1",
@@ -45346,6 +45437,34 @@
     "name": "Samsung Galaxy Watch5 Pro (SM-R925U)"
   },
   {
+    "codename": "fresh6bl",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6",
+    "model": "SM-R940",
+    "name": "Samsung Galaxy Watch6 (SM-R940)"
+  },
+  {
+    "codename": "fresh6bs",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6",
+    "model": "SM-R930",
+    "name": "Samsung Galaxy Watch6 (SM-R930)"
+  },
+  {
+    "codename": "wise6bl",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6 Classic",
+    "model": "SM-R960",
+    "name": "Samsung Galaxy Watch6 Classic (SM-R960)"
+  },
+  {
+    "codename": "wise6bs",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Watch6 Classic",
+    "model": "SM-R950",
+    "name": "Samsung Galaxy Watch6 Classic (SM-R950)"
+  },
+  {
     "codename": "on7nlteskt",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Wide",
@@ -46102,6 +46221,48 @@
     "name": "Samsung Galaxy Z Flip4 (SM-F721W)"
   },
   {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F7310",
+    "name": "Samsung Galaxy Z Flip5 (SM-F7310)"
+  },
+  {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F731B",
+    "name": "Samsung Galaxy Z Flip5 (SM-F731B)"
+  },
+  {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F731N",
+    "name": "Samsung Galaxy Z Flip5 (SM-F731N)"
+  },
+  {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F731U",
+    "name": "Samsung Galaxy Z Flip5 (SM-F731U)"
+  },
+  {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F731U1",
+    "name": "Samsung Galaxy Z Flip5 (SM-F731U1)"
+  },
+  {
+    "codename": "b5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SM-F731W",
+    "name": "Samsung Galaxy Z Flip5 (SM-F731W)"
+  },
+  {
     "codename": "f2q",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Z Fold2 5G",
@@ -46261,6 +46422,48 @@
     "marketing_name": "Galaxy Z Fold4",
     "model": "SM-F936W",
     "name": "Samsung Galaxy Z Fold4 (SM-F936W)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F9460",
+    "name": "Samsung Galaxy Z Fold5 (SM-F9460)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F946B",
+    "name": "Samsung Galaxy Z Fold5 (SM-F946B)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F946N",
+    "name": "Samsung Galaxy Z Fold5 (SM-F946N)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F946U",
+    "name": "Samsung Galaxy Z Fold5 (SM-F946U)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F946U1",
+    "name": "Samsung Galaxy Z Fold5 (SM-F946U1)"
+  },
+  {
+    "codename": "q5q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SM-F946W",
+    "name": "Samsung Galaxy Z Fold5 (SM-F946W)"
   },
   {
     "codename": "YP-GB70D",
