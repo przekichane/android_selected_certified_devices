@@ -16940,6 +16940,13 @@
     "name": "Motorola Defy (Motorola Defy)"
   },
   {
+    "codename": "BM2S1E",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola Defy 2",
+    "model": "Defy 2",
+    "name": "Motorola Defy 2 (Defy 2)"
+  },
+  {
     "codename": "deen_sprout",
     "retail_branding": "Motorola",
     "marketing_name": "Motorola one",
@@ -46956,6 +46963,13 @@
     "name": "Sony BRAVIA 4K UR3 (BRAVIA 4K UR3)"
   },
   {
+    "codename": "BRAVIA_AE_M6L",
+    "retail_branding": "Sony",
+    "marketing_name": "BRAVIA AE M6L",
+    "model": "BRAVIA 4K AE1",
+    "name": "Sony BRAVIA AE M6L (BRAVIA 4K AE1)"
+  },
+  {
     "codename": "NSZGU1",
     "retail_branding": "Sony",
     "marketing_name": "BRAVIA Smart Stick",
@@ -47437,6 +47451,13 @@
     "marketing_name": "Xperia 1 V",
     "model": "SOG10",
     "name": "Sony Xperia 1 V (SOG10)"
+  },
+  {
+    "codename": "XQ-DQ54",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 1 V",
+    "model": "XQ-DQ54",
+    "name": "Sony Xperia 1 V (XQ-DQ54)"
   },
   {
     "codename": "XQ-DQ62",
@@ -53436,6 +53457,13 @@
     "marketing_name": "realme C35",
     "model": "RMX3513",
     "name": "realme C35 (RMX3513)"
+  },
+  {
+    "codename": "RE58BC",
+    "retail_branding": "realme",
+    "marketing_name": "realme C51",
+    "model": "RMX3830",
+    "name": "realme C51 (RMX3830)"
   },
   {
     "codename": "RE58C2",
