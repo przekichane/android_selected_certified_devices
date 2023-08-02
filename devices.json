@@ -17444,6 +17444,34 @@
     "name": "Motorola moto e20 (moto e20)"
   },
   {
+    "codename": "borag",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto e22",
+    "model": "moto",
+    "name": "Motorola moto e22 (moto)"
+  },
+  {
+    "codename": "borag",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto e22",
+    "model": "moto e22",
+    "name": "Motorola moto e22 (moto e22)"
+  },
+  {
+    "codename": "borago",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto e22i",
+    "model": "moto",
+    "name": "Motorola moto e22i (moto)"
+  },
+  {
+    "codename": "borago",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto e22i",
+    "model": "moto e22i",
+    "name": "Motorola moto e22i (moto e22i)"
+  },
+  {
     "codename": "cyprus",
     "retail_branding": "Motorola",
     "marketing_name": "moto e30",
