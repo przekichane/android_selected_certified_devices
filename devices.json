@@ -16912,6 +16912,34 @@
     "name": "Motorola Motoroi (XT720)"
   },
   {
+    "codename": "hongkong",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola",
+    "model": "MOTOROLA GOOGLE TV 4K",
+    "name": "Motorola (MOTOROLA GOOGLE TV 4K)"
+  },
+  {
+    "codename": "hongkong",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola",
+    "model": "MOTOROLA GOOGLE TV 4K ATSC",
+    "name": "Motorola (MOTOROLA GOOGLE TV 4K ATSC)"
+  },
+  {
+    "codename": "lavender",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola",
+    "model": "MOTOROLA GOOGLE TV 4K",
+    "name": "Motorola (MOTOROLA GOOGLE TV 4K)"
+  },
+  {
+    "codename": "mountbaker",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola",
+    "model": "MOTOROLA GOOGLE TV",
+    "name": "Motorola (MOTOROLA GOOGLE TV)"
+  },
+  {
     "codename": "stanford",
     "retail_branding": "Motorola",
     "marketing_name": "Motorola",
@@ -19360,6 +19388,27 @@
     "marketing_name": "E00",
     "model": "E00",
     "name": "OnePlus E00 (E00)"
+  },
+  {
+    "codename": "songni",
+    "retail_branding": "OnePlus",
+    "marketing_name": "H93A",
+    "model": "H93A",
+    "name": "OnePlus H93A (H93A)"
+  },
+  {
+    "codename": "songni",
+    "retail_branding": "OnePlus",
+    "marketing_name": "N1",
+    "model": "S70A",
+    "name": "OnePlus N1 (S70A)"
+  },
+  {
+    "codename": "songni",
+    "retail_branding": "OnePlus",
+    "marketing_name": "N1 Pro",
+    "model": "H80A",
+    "name": "OnePlus N1 Pro (H80A)"
   },
   {
     "codename": "A0001",
