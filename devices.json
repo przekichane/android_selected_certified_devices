@@ -2730,6 +2730,13 @@
     "name": "Google AMD FP6 Chromebook (guybrush)"
   },
   {
+    "codename": "skyrim_cheets",
+    "retail_branding": "Google",
+    "marketing_name": "AMD Mendocino FT6 Chromebook",
+    "model": "skyrim",
+    "name": "Google AMD Mendocino FT6 Chromebook (skyrim)"
+  },
+  {
     "codename": "zork_cheets",
     "retail_branding": "Google",
     "marketing_name": "AMD Raven Ridge Chromebook",
@@ -16938,6 +16945,13 @@
     "marketing_name": "Motorola",
     "model": "MOTOROLA GOOGLE TV",
     "name": "Motorola (MOTOROLA GOOGLE TV)"
+  },
+  {
+    "codename": "mountbaker",
+    "retail_branding": "Motorola",
+    "marketing_name": "Motorola",
+    "model": "MOTOROLA GOOGLE TV NA",
+    "name": "Motorola (MOTOROLA GOOGLE TV NA)"
   },
   {
     "codename": "stanford",
@@ -47549,6 +47563,13 @@
     "marketing_name": "Xperia 1 V",
     "model": "SOG10",
     "name": "Sony Xperia 1 V (SOG10)"
+  },
+  {
+    "codename": "XQ-DQ44",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 1 V",
+    "model": "XQ-DQ44",
+    "name": "Sony Xperia 1 V (XQ-DQ44)"
   },
   {
     "codename": "XQ-DQ54",
