@@ -3500,6 +3500,27 @@
     "name": "HONOR X5 (VNA-LX3)"
   },
   {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X5 Plus",
+    "model": "WOD-LX1",
+    "name": "HONOR X5 Plus (WOD-LX1)"
+  },
+  {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X5 Plus",
+    "model": "WOD-LX2",
+    "name": "HONOR X5 Plus (WOD-LX2)"
+  },
+  {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X5 Plus",
+    "model": "WOD-LX3",
+    "name": "HONOR X5 Plus (WOD-LX3)"
+  },
+  {
     "codename": "HNVNE-M",
     "retail_branding": "Honor",
     "marketing_name": "HONOR X6",
@@ -3519,6 +3540,27 @@
     "marketing_name": "HONOR X6",
     "model": "VNE-LX3",
     "name": "HONOR X6 (VNE-LX3)"
+  },
+  {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X6a",
+    "model": "WDY-LX1",
+    "name": "HONOR X6a (WDY-LX1)"
+  },
+  {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X6a",
+    "model": "WDY-LX2",
+    "name": "HONOR X6a (WDY-LX2)"
+  },
+  {
+    "codename": "HNWDY-M",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X6a",
+    "model": "WDY-LX3",
+    "name": "HONOR X6a (WDY-LX3)"
   },
   {
     "codename": "HNCMA-Q",
@@ -53184,6 +53226,13 @@
     "marketing_name": "realme 11",
     "model": "RMX3751",
     "name": "realme 11 (RMX3751)"
+  },
+  {
+    "codename": "RE5C7CL1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11",
+    "model": "RMX3636",
+    "name": "realme 11 (RMX3636)"
   },
   {
     "codename": "RE58B8L1",
