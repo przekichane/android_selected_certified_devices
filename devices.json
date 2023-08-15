@@ -20993,6 +20993,13 @@
     "name": "Oppo A57t (OPPO A57t)"
   },
   {
+    "codename": "OP574FL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A58",
+    "model": "CPH2577",
+    "name": "Oppo A58 (CPH2577)"
+  },
+  {
     "codename": "A59",
     "retail_branding": "Oppo",
     "marketing_name": "A59",
@@ -22440,13 +22447,6 @@
     "marketing_name": "OPPO A57s",
     "model": "CPH2385",
     "name": "OPPO A57s (CPH2385)"
-  },
-  {
-    "codename": "OP574FL1",
-    "retail_branding": "Oppo",
-    "marketing_name": "OPPO A58",
-    "model": "CPH2577",
-    "name": "OPPO A58 (CPH2577)"
   },
   {
     "codename": "OP4F39L1",
@@ -24066,6 +24066,13 @@
     "name": "Oppo Reno5 (CPH2159)"
   },
   {
+    "codename": "OP4F2BL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno5 A (eSIM)",
+    "model": "A103OP",
+    "name": "Oppo Reno5 A (eSIM) (A103OP)"
+  },
+  {
     "codename": "OP4F43L1",
     "retail_branding": "Oppo",
     "marketing_name": "Reno5 F",
@@ -24113,6 +24120,20 @@
     "marketing_name": "Reno8 T 5G",
     "model": "CPH2505",
     "name": "Oppo Reno8 T 5G (CPH2505)"
+  },
+  {
+    "codename": "OP5701L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno9 A",
+    "model": "A301OP",
+    "name": "Oppo Reno9 A (A301OP)"
+  },
+  {
+    "codename": "OP5701L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno9 A",
+    "model": "CPH2523",
+    "name": "Oppo Reno9 A (CPH2523)"
   },
   {
     "codename": "U3",
