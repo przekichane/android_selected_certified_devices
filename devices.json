@@ -26110,6 +26110,13 @@
     "name": "Redmi K60 Pro (22127RK46C)"
   },
   {
+    "codename": "corot",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi K60 Ultra",
+    "model": "23078RKD5C",
+    "name": "Redmi K60 Ultra (23078RKD5C)"
+  },
+  {
     "codename": "rembrandt",
     "retail_branding": "Redmi",
     "marketing_name": "Redmi K60E",
@@ -52941,6 +52948,13 @@
     "name": "Xiaomi MIX Fold 2 (22061218C)"
   },
   {
+    "codename": "babylon",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi MIX Fold 3",
+    "model": "2308CPXD0C",
+    "name": "Xiaomi MIX Fold 3 (2308CPXD0C)"
+  },
+  {
     "codename": "nabu",
     "retail_branding": "Xiaomi",
     "marketing_name": "Xiaomi Pad 5",
@@ -52995,6 +53009,13 @@
     "marketing_name": "Xiaomi Pad 6",
     "model": "23043RP34I",
     "name": "Xiaomi Pad 6 (23043RP34I)"
+  },
+  {
+    "codename": "yudi",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi Pad 6 Max 14",
+    "model": "2307BRPDCC",
+    "name": "Xiaomi Pad 6 Max 14 (2307BRPDCC)"
   },
   {
     "codename": "jaws",
