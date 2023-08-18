@@ -3220,6 +3220,13 @@
     "name": "Google Pixel Watch (Google Pixel Watch)"
   },
   {
+    "codename": "eos",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Watch 2",
+    "model": "Google Pixel Watch 2",
+    "name": "Google Pixel Watch 2 (Google Pixel Watch 2)"
+  },
+  {
     "codename": "marlin",
     "retail_branding": "Google",
     "marketing_name": "Pixel XL",
@@ -3477,6 +3484,13 @@
     "marketing_name": "HONOR Pad X8 Lite",
     "model": "AGM-W09HN",
     "name": "HONOR Pad X8 Lite (AGM-W09HN)"
+  },
+  {
+    "codename": "HNELN-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR Pad X9",
+    "model": "ELN-L09",
+    "name": "HONOR Pad X9 (ELN-L09)"
   },
   {
     "codename": "HNELN-Q",
