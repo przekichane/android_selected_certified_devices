@@ -46431,6 +46431,20 @@
     "name": "Samsung Galaxy Z Flip4 (SM-F721W)"
   },
   {
+    "codename": "SC-54D",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SC-54D",
+    "name": "Samsung Galaxy Z Flip5 (SC-54D)"
+  },
+  {
+    "codename": "SCG23",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Flip5",
+    "model": "SCG23",
+    "name": "Samsung Galaxy Z Flip5 (SCG23)"
+  },
+  {
     "codename": "b5q",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Z Flip5",
@@ -46632,6 +46646,20 @@
     "marketing_name": "Galaxy Z Fold4",
     "model": "SM-F936W",
     "name": "Samsung Galaxy Z Fold4 (SM-F936W)"
+  },
+  {
+    "codename": "SC-55D",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SC-55D",
+    "name": "Samsung Galaxy Z Fold5 (SC-55D)"
+  },
+  {
+    "codename": "SCG22",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Z Fold5",
+    "model": "SCG22",
+    "name": "Samsung Galaxy Z Fold5 (SCG22)"
   },
   {
     "codename": "q5q",
