@@ -23905,6 +23905,20 @@
     "name": "Oppo Reno \u6807\u51c6\u7248 (PCAT00)"
   },
   {
+    "codename": "OP5705L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno10 5G",
+    "model": "CPH2531",
+    "name": "Oppo Reno10 5G (CPH2531)"
+  },
+  {
+    "codename": "OP56DBL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno10 Pro 5G",
+    "model": "A302OP",
+    "name": "Oppo Reno10 Pro 5G (A302OP)"
+  },
+  {
     "codename": "OP56DBL1",
     "retail_branding": "Oppo",
     "marketing_name": "Reno10 Pro 5G",
@@ -23917,6 +23931,13 @@
     "marketing_name": "Reno10 Pro 5G",
     "model": "CPH2541",
     "name": "Oppo Reno10 Pro 5G (CPH2541)"
+  },
+  {
+    "codename": "OP56D3L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Reno10 Pro+ 5G",
+    "model": "CPH2521",
+    "name": "Oppo Reno10 Pro+ 5G (CPH2521)"
   },
   {
     "codename": "OP4B65L1",
