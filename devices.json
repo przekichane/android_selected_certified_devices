@@ -18431,6 +18431,20 @@
     "name": "Motorola moto g13 (penangf)"
   },
   {
+    "codename": "cancun",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g14",
+    "model": "cancun",
+    "name": "Motorola moto g14 (cancun)"
+  },
+  {
+    "codename": "cancun",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g14",
+    "model": "moto g14",
+    "name": "Motorola moto g14 (moto g14)"
+  },
+  {
     "codename": "xpeng",
     "retail_branding": "Motorola",
     "marketing_name": "moto g200 5G",
@@ -21320,6 +21334,13 @@
     "marketing_name": "A96 5G",
     "model": "PFUM10",
     "name": "Oppo A96 5G (PFUM10)"
+  },
+  {
+    "codename": "OP56E8L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A98 5G",
+    "model": "CPH2529",
+    "name": "Oppo A98 5G (CPH2529)"
   },
   {
     "codename": "OP46F3",
@@ -53842,6 +53863,20 @@
     "marketing_name": "realme GT Neo2 5G\t",
     "model": "RMX3370",
     "name": "realme GT Neo2 5G\t (RMX3370)"
+  },
+  {
+    "codename": "RE5C33",
+    "retail_branding": "realme",
+    "marketing_name": "realme GT Neo5",
+    "model": "RMX3820",
+    "name": "realme GT Neo5 (RMX3820)"
+  },
+  {
+    "codename": "RE5C33",
+    "retail_branding": "realme",
+    "marketing_name": "realme GT Neo5 240W",
+    "model": "RMX3823",
+    "name": "realme GT Neo5 240W (RMX3823)"
   },
   {
     "codename": "REE2B2L1",
