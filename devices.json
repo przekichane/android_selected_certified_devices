@@ -22519,6 +22519,13 @@
     "name": "OPPO Pad (OPD2101)"
   },
   {
+    "codename": "OP5989",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO Pad 2",
+    "model": "OPD2201",
+    "name": "OPPO Pad 2 (OPD2201)"
+  },
+  {
     "codename": "OP5225",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO Pad Air",
@@ -27669,6 +27676,20 @@
     "marketing_name": "Galaxy A04s",
     "model": "SM-A047M",
     "name": "Samsung Galaxy A04s (SM-A047M)"
+  },
+  {
+    "codename": "a05m",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05",
+    "model": "SM-A055F",
+    "name": "Samsung Galaxy A05 (SM-A055F)"
+  },
+  {
+    "codename": "a05m",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05",
+    "model": "SM-A055M",
+    "name": "Samsung Galaxy A05 (SM-A055M)"
   },
   {
     "codename": "a10",
@@ -44252,6 +44273,55 @@
     "marketing_name": "Galaxy Tab S9 5G",
     "model": "SM-X716N",
     "name": "Samsung Galaxy Tab S9 5G (SM-X716N)"
+  },
+  {
+    "codename": "gts9fe",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE 5G",
+    "model": "SM-X516B",
+    "name": "Samsung Galaxy Tab S9 FE 5G (SM-X516B)"
+  },
+  {
+    "codename": "gts9fe",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE 5G",
+    "model": "SM-X516C",
+    "name": "Samsung Galaxy Tab S9 FE 5G (SM-X516C)"
+  },
+  {
+    "codename": "gts9fe",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE 5G",
+    "model": "SM-X516N",
+    "name": "Samsung Galaxy Tab S9 FE 5G (SM-X516N)"
+  },
+  {
+    "codename": "gts9fe",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE 5G",
+    "model": "SM-X518U",
+    "name": "Samsung Galaxy Tab S9 FE 5G (SM-X518U)"
+  },
+  {
+    "codename": "gts9fep",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE+ 5G",
+    "model": "SM-X616B",
+    "name": "Samsung Galaxy Tab S9 FE+ 5G (SM-X616B)"
+  },
+  {
+    "codename": "gts9fep",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE+ 5G",
+    "model": "SM-X616C",
+    "name": "Samsung Galaxy Tab S9 FE+ 5G (SM-X616C)"
+  },
+  {
+    "codename": "gts9fep",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE+ 5G",
+    "model": "SM-X616N",
+    "name": "Samsung Galaxy Tab S9 FE+ 5G (SM-X616N)"
   },
   {
     "codename": "gts9uwifi",
