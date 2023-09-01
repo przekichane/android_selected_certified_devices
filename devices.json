@@ -22526,6 +22526,13 @@
     "name": "OPPO Pad 2 (OPD2201)"
   },
   {
+    "codename": "OP59BBL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO Pad 2",
+    "model": "OPD2202",
+    "name": "OPPO Pad 2 (OPD2202)"
+  },
+  {
     "codename": "OP5225",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO Pad Air",
@@ -48242,6 +48249,20 @@
     "marketing_name": "Xperia 5 IV",
     "model": "XQ-CQ72",
     "name": "Sony Xperia 5 IV (XQ-CQ72)"
+  },
+  {
+    "codename": "XQ-DE54",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 5 V",
+    "model": "XQ-DE54",
+    "name": "Sony Xperia 5 V (XQ-DE54)"
+  },
+  {
+    "codename": "XQ-DE72",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 5 V",
+    "model": "XQ-DE72",
+    "name": "Sony Xperia 5 V (XQ-DE72)"
   },
   {
     "codename": "902SO",
