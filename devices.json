@@ -47537,6 +47537,13 @@
     "name": "Sony BRAVIA_VU3.1 (BRAVIA VU31)"
   },
   {
+    "codename": "BRAVIA_VU31_4K",
+    "retail_branding": "Sony",
+    "marketing_name": "BRAVIA_VU31",
+    "model": "BRAVIA VU31",
+    "name": "Sony BRAVIA_VU31 (BRAVIA VU31)"
+  },
+  {
     "codename": "WT19a",
     "retail_branding": "Sony",
     "marketing_name": "Ericsson Live with Walkman",
@@ -52612,6 +52619,13 @@
     "name": "Xiaomi MiTV (MiTV-MOSR1)"
   },
   {
+    "codename": "irobot",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "MiTV",
+    "model": "MiTV-MOSR4",
+    "name": "Xiaomi MiTV (MiTV-MOSR4)"
+  },
+  {
     "codename": "machuca",
     "retail_branding": "Xiaomi",
     "marketing_name": "MiTV",
@@ -52661,11 +52675,25 @@
     "name": "Xiaomi MiTV (MiTV-MOOR0)"
   },
   {
+    "codename": "venom",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "MiTV",
+    "model": "MiTV-MOOR6",
+    "name": "Xiaomi MiTV (MiTV-MOOR6)"
+  },
+  {
     "codename": "volver",
     "retail_branding": "Xiaomi",
     "marketing_name": "MiTV",
     "model": "MiTV-MSSP2",
     "name": "Xiaomi MiTV (MiTV-MSSP2)"
+  },
+  {
+    "codename": "watchmen",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "MiTV",
+    "model": "MiTV-AXFR2",
+    "name": "Xiaomi MiTV (MiTV-AXFR2)"
   },
   {
     "codename": "entrapment",
