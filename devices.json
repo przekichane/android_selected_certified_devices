@@ -20244,6 +20244,13 @@
     "name": "OnePlus Nord2 5G (DN2103)"
   },
   {
+    "codename": "OP59BCL1",
+    "retail_branding": "OnePlus",
+    "marketing_name": "OnePlus Pad",
+    "model": "OPD2203",
+    "name": "OnePlus Pad (OPD2203)"
+  },
+  {
     "codename": "OnePlus2",
     "retail_branding": "OnePlus",
     "marketing_name": "OnePlus2",
@@ -26822,6 +26829,13 @@
     "marketing_name": "Redmi Pad SE",
     "model": "23073RPBFG",
     "name": "Redmi Pad SE (23073RPBFG)"
+  },
+  {
+    "codename": "xun",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Pad SE",
+    "model": "23073RPBFL",
+    "name": "Redmi Pad SE (23073RPBFL)"
   },
   {
     "codename": "tarzan",
