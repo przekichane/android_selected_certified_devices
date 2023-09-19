@@ -18641,6 +18641,20 @@
     "name": "Motorola moto g53y 5G (moto g53y 5G)"
   },
   {
+    "codename": "cancunf",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g54 5G",
+    "model": "moto g54 5G",
+    "name": "Motorola moto g54 5G (moto g54 5G)"
+  },
+  {
+    "codename": "cancunf",
+    "retail_branding": "Motorola",
+    "marketing_name": "moto g54 5G",
+    "model": "moto g73 5G",
+    "name": "Motorola moto g54 5G (moto g73 5G)"
+  },
+  {
     "codename": "jeter",
     "retail_branding": "Motorola",
     "marketing_name": "moto g6 play",
@@ -54103,25 +54117,25 @@
     "name": "realme GT Neo2 5G\t (RMX3370)"
   },
   {
-    "codename": "RE5C33",
-    "retail_branding": "realme",
-    "marketing_name": "realme GT Neo5",
-    "model": "RMX3820",
-    "name": "realme GT Neo5 (RMX3820)"
-  },
-  {
-    "codename": "RE5C33",
-    "retail_branding": "realme",
-    "marketing_name": "realme GT Neo5 240W",
-    "model": "RMX3823",
-    "name": "realme GT Neo5 240W (RMX3823)"
-  },
-  {
     "codename": "REE2B2L1",
     "retail_branding": "realme",
     "marketing_name": "realme GT3 240W",
     "model": "RMX3709",
     "name": "realme GT3 240W (RMX3709)"
+  },
+  {
+    "codename": "RE5C33",
+    "retail_branding": "realme",
+    "marketing_name": "realme GT5",
+    "model": "RMX3820",
+    "name": "realme GT5 (RMX3820)"
+  },
+  {
+    "codename": "RE5C33",
+    "retail_branding": "realme",
+    "marketing_name": "realme GT5 240W",
+    "model": "RMX3823",
+    "name": "realme GT5 240W (RMX3823)"
   },
   {
     "codename": "RMX2117L1",
