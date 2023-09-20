@@ -39438,6 +39438,41 @@
     "name": "Samsung Galaxy S23 (SM-S911W)"
   },
   {
+    "codename": "r11q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 FE",
+    "model": "SM-S7110",
+    "name": "Samsung Galaxy S23 FE (SM-S7110)"
+  },
+  {
+    "codename": "r11q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 FE",
+    "model": "SM-S711U",
+    "name": "Samsung Galaxy S23 FE (SM-S711U)"
+  },
+  {
+    "codename": "r11q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 FE",
+    "model": "SM-S711U1",
+    "name": "Samsung Galaxy S23 FE (SM-S711U1)"
+  },
+  {
+    "codename": "r11q",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 FE",
+    "model": "SM-S711W",
+    "name": "Samsung Galaxy S23 FE (SM-S711W)"
+  },
+  {
+    "codename": "r11s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy S23 FE",
+    "model": "SM-S711B",
+    "name": "Samsung Galaxy S23 FE (SM-S711B)"
+  },
+  {
     "codename": "SC-52D",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy S23 Ultra",
@@ -43043,6 +43078,27 @@
     "name": "Samsung Galaxy Tab A8 (SM-X200)"
   },
   {
+    "codename": "gta9",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9",
+    "model": "SM-X115",
+    "name": "Samsung Galaxy Tab A9 (SM-X115)"
+  },
+  {
+    "codename": "gta9",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9",
+    "model": "SM-X115N",
+    "name": "Samsung Galaxy Tab A9 (SM-X115N)"
+  },
+  {
+    "codename": "gta9",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9",
+    "model": "SM-X117",
+    "name": "Samsung Galaxy Tab A9 (SM-X117)"
+  },
+  {
     "codename": "rubenslte",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab Active",
@@ -44317,6 +44373,13 @@
     "name": "Samsung Galaxy Tab S9 5G (SM-X716N)"
   },
   {
+    "codename": "gts9fewifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE",
+    "model": "SM-X510",
+    "name": "Samsung Galaxy Tab S9 FE (SM-X510)"
+  },
+  {
     "codename": "gts9fe",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab S9 FE 5G",
@@ -44343,6 +44406,13 @@
     "marketing_name": "Galaxy Tab S9 FE 5G",
     "model": "SM-X518U",
     "name": "Samsung Galaxy Tab S9 FE 5G (SM-X518U)"
+  },
+  {
+    "codename": "gts9fepwifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE+",
+    "model": "SM-X610",
+    "name": "Samsung Galaxy Tab S9 FE+ (SM-X610)"
   },
   {
     "codename": "gts9fep",
@@ -48389,6 +48459,27 @@
     "marketing_name": "Xperia 5 IV",
     "model": "XQ-CQ72",
     "name": "Sony Xperia 5 IV (XQ-CQ72)"
+  },
+  {
+    "codename": "SO-53D",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 5 V",
+    "model": "SO-53D",
+    "name": "Sony Xperia 5 V (SO-53D)"
+  },
+  {
+    "codename": "SOG12",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 5 V",
+    "model": "SOG12",
+    "name": "Sony Xperia 5 V (SOG12)"
+  },
+  {
+    "codename": "XQ-DE44",
+    "retail_branding": "Sony",
+    "marketing_name": "Xperia 5 V",
+    "model": "XQ-DE44",
+    "name": "Sony Xperia 5 V (XQ-DE44)"
   },
   {
     "codename": "XQ-DE54",
