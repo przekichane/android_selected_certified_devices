@@ -22687,6 +22687,13 @@
     "name": "OPPO Reno8 Pro 5G (CPH2357)"
   },
   {
+    "codename": "OP5709L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO Reno8 T",
+    "model": "CPH2481",
+    "name": "OPPO Reno8 T (CPH2481)"
+  },
+  {
     "codename": "OP5601",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO Reno9 Pro 5G",
@@ -27739,6 +27746,34 @@
     "marketing_name": "Galaxy A05",
     "model": "SM-A055M",
     "name": "Samsung Galaxy A05 (SM-A055M)"
+  },
+  {
+    "codename": "a05s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05s",
+    "model": "SM-A057F",
+    "name": "Samsung Galaxy A05s (SM-A057F)"
+  },
+  {
+    "codename": "a05s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05s",
+    "model": "SM-A057G",
+    "name": "Samsung Galaxy A05s (SM-A057G)"
+  },
+  {
+    "codename": "a05s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05s",
+    "model": "SM-E145F",
+    "name": "Samsung Galaxy A05s (SM-E145F)"
+  },
+  {
+    "codename": "a05s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05s",
+    "model": "SM-M145F",
+    "name": "Samsung Galaxy A05s (SM-M145F)"
   },
   {
     "codename": "a10",
@@ -43106,6 +43141,13 @@
     "name": "Samsung Galaxy Tab A9 (SM-X117)"
   },
   {
+    "codename": "gta9wifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9",
+    "model": "SM-X110",
+    "name": "Samsung Galaxy Tab A9 (SM-X110)"
+  },
+  {
     "codename": "rubenslte",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab Active",
@@ -53725,6 +53767,13 @@
     "name": "realme 11 (RMX3636)"
   },
   {
+    "codename": "RE5C6CL1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11 5G",
+    "model": "RMX3780",
+    "name": "realme 11 5G (RMX3780)"
+  },
+  {
     "codename": "RE58B8L1",
     "retail_branding": "realme",
     "marketing_name": "realme 11 Pro 5G",
@@ -53737,6 +53786,13 @@
     "marketing_name": "realme 11 Pro+ 5G",
     "model": "RMX3741",
     "name": "realme 11 Pro+ 5G (RMX3741)"
+  },
+  {
+    "codename": "RE5C6CL1",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11x 5G",
+    "model": "RMX3785",
+    "name": "realme 11x 5G (RMX3785)"
   },
   {
     "codename": "SW6H",
@@ -54243,6 +54299,20 @@
     "name": "realme Narzo 30 Pro 5G (RMX2117)"
   },
   {
+    "codename": "RE5C6EL1",
+    "retail_branding": "realme",
+    "marketing_name": "realme Pad 2",
+    "model": "RMP2204",
+    "name": "realme Pad 2 (RMP2204)"
+  },
+  {
+    "codename": "RE5C70L1",
+    "retail_branding": "realme",
+    "marketing_name": "realme Pad 2",
+    "model": "RMP2205",
+    "name": "realme Pad 2 (RMP2205)"
+  },
+  {
     "codename": "RE5496",
     "retail_branding": "realme",
     "marketing_name": "realme Pad X",
@@ -54521,6 +54591,13 @@
     "marketing_name": "realme narzo 60 5G",
     "model": "RMX3750",
     "name": "realme narzo 60 5G (RMX3750)"
+  },
+  {
+    "codename": "RE5C6CL1",
+    "retail_branding": "realme",
+    "marketing_name": "realme narzo 60x 5G",
+    "model": "RMX3782",
+    "name": "realme narzo 60x 5G (RMX3782)"
   },
   {
     "codename": "RE58C6",
