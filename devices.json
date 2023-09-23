@@ -22533,6 +22533,13 @@
     "name": "OPPO F21 Pro 5G (CPH2341)"
   },
   {
+    "codename": "OP591D",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO K11 5G",
+    "model": "PJC110",
+    "name": "OPPO K11 5G (PJC110)"
+  },
+  {
     "codename": "OP5223",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO Pad",
@@ -26668,6 +26675,20 @@
     "marketing_name": "Redmi Note 12T Pro",
     "model": "23054RA19C",
     "name": "Redmi Note 12T Pro (23054RA19C)"
+  },
+  {
+    "codename": "gold",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 13 5G",
+    "model": "2312DRAABC",
+    "name": "Redmi Note 13 5G (2312DRAABC)"
+  },
+  {
+    "codename": "zircon",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 13 Pro+",
+    "model": "23090RA98C",
+    "name": "Redmi Note 13 Pro+ (23090RA98C)"
   },
   {
     "codename": "lavender",
