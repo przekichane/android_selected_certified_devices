@@ -53753,6 +53753,13 @@
     "name": "realme 10 Pro 5G (RMX3771)"
   },
   {
+    "codename": "RE5854",
+    "retail_branding": "realme",
+    "marketing_name": "realme 10 Pro+",
+    "model": "RMX3687",
+    "name": "realme 10 Pro+ (RMX3687)"
+  },
+  {
     "codename": "RE58A5L1",
     "retail_branding": "realme",
     "marketing_name": "realme 10 Pro+ 5G",
@@ -53800,6 +53807,13 @@
     "marketing_name": "realme 11 Pro 5G",
     "model": "RMX3771",
     "name": "realme 11 Pro 5G (RMX3771)"
+  },
+  {
+    "codename": "RE5865",
+    "retail_branding": "realme",
+    "marketing_name": "realme 11 Pro+",
+    "model": "RMX3740",
+    "name": "realme 11 Pro+ (RMX3740)"
   },
   {
     "codename": "RE58B6L1",
@@ -54670,13 +54684,6 @@
     "name": "realme \u771f\u6211 10 Pro (RMX3770)"
   },
   {
-    "codename": "RE5865",
-    "retail_branding": "realme",
-    "marketing_name": "\u771f\u6211 11 Pro+",
-    "model": "RMX3740",
-    "name": "realme \u771f\u6211 11 Pro+ (RMX3740)"
-  },
-  {
     "codename": "RE5489",
     "retail_branding": "realme",
     "marketing_name": "\u771f\u6211 GT NEO  3  150W",
@@ -54724,13 +54731,6 @@
     "marketing_name": "\u771f\u6211 V20",
     "model": "RMX3611",
     "name": "realme \u771f\u6211 V20 (RMX3611)"
-  },
-  {
-    "codename": "RE5854",
-    "retail_branding": "realme",
-    "marketing_name": "\u771f\u621110 Pro+",
-    "model": "RMX3687",
-    "name": "realme \u771f\u621110 Pro+ (RMX3687)"
   },
   {
     "codename": "RE5471",
