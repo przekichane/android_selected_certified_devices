@@ -28520,6 +28520,13 @@
   {
     "codename": "a23xq",
     "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A23 5G",
+    "model": "SM-S237VL",
+    "name": "Samsung Galaxy A23 5G (SM-S237VL)"
+  },
+  {
+    "codename": "a23xq",
+    "retail_branding": "Samsung",
     "marketing_name": "Galaxy A23 5G UW",
     "model": "SM-A236V",
     "name": "Samsung Galaxy A23 5G UW (SM-A236V)"
@@ -43167,6 +43174,34 @@
     "marketing_name": "Galaxy Tab A9",
     "model": "SM-X110",
     "name": "Samsung Galaxy Tab A9 (SM-X110)"
+  },
+  {
+    "codename": "gta9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+ 5G",
+    "model": "SM-X216B",
+    "name": "Samsung Galaxy Tab A9+ 5G (SM-X216B)"
+  },
+  {
+    "codename": "gta9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+ 5G",
+    "model": "SM-X216C",
+    "name": "Samsung Galaxy Tab A9+ 5G (SM-X216C)"
+  },
+  {
+    "codename": "gta9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+ 5G",
+    "model": "SM-X216N",
+    "name": "Samsung Galaxy Tab A9+ 5G (SM-X216N)"
+  },
+  {
+    "codename": "gta9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+ 5G",
+    "model": "SM-X218B",
+    "name": "Samsung Galaxy Tab A9+ 5G (SM-X218B)"
   },
   {
     "codename": "rubenslte",
