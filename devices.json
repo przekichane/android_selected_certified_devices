@@ -22575,6 +22575,13 @@
     "name": "OPPO Reno10 5G (PHW110)"
   },
   {
+    "codename": "OP561F",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO Reno10 Pro 5G",
+    "model": "PHV110",
+    "name": "OPPO Reno10 Pro 5G (PHV110)"
+  },
+  {
     "codename": "OP564B",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO Reno10 Pro+ 5G",
@@ -53464,6 +53471,34 @@
     "marketing_name": "Xiaomi 13 pro",
     "model": "2210132C",
     "name": "Xiaomi 13 pro (2210132C)"
+  },
+  {
+    "codename": "XIG04",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 13T",
+    "model": "XIG04",
+    "name": "Xiaomi 13T (XIG04)"
+  },
+  {
+    "codename": "aristotle",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 13T",
+    "model": "2306EPN60G",
+    "name": "Xiaomi 13T (2306EPN60G)"
+  },
+  {
+    "codename": "corot",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 13T Pro",
+    "model": "23078PND5G",
+    "name": "Xiaomi 13T Pro (23078PND5G)"
+  },
+  {
+    "codename": "corot",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 13T Pro",
+    "model": "A301XM",
+    "name": "Xiaomi 13T Pro (A301XM)"
   },
   {
     "codename": "mona",
