@@ -43183,6 +43183,13 @@
     "name": "Samsung Galaxy Tab A9 (SM-X110)"
   },
   {
+    "codename": "gta9pwifi",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+",
+    "model": "SM-X210",
+    "name": "Samsung Galaxy Tab A9+ (SM-X210)"
+  },
+  {
     "codename": "gta9p",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab A9+ 5G",
