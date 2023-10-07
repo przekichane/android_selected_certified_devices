@@ -26691,6 +26691,20 @@
     "name": "Redmi Note 13 5G (2312DRAABC)"
   },
   {
+    "codename": "garnet",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 13 Pro",
+    "model": "2312CRAD3C",
+    "name": "Redmi Note 13 Pro (2312CRAD3C)"
+  },
+  {
+    "codename": "garnet",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 13 Pro",
+    "model": "2312DRA50C",
+    "name": "Redmi Note 13 Pro (2312DRA50C)"
+  },
+  {
     "codename": "zircon",
     "retail_branding": "Redmi",
     "marketing_name": "Redmi Note 13 Pro+",
@@ -53618,6 +53632,20 @@
     "marketing_name": "Xiaomi TV stick 4K",
     "model": "MiTV-AYFR0",
     "name": "Xiaomi TV stick 4K (MiTV-AYFR0)"
+  },
+  {
+    "codename": "axolotl",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi Watch 2 Pro",
+    "model": "Xiaomi Watch 2 Pro",
+    "name": "Xiaomi Watch 2 Pro (Xiaomi Watch 2 Pro)"
+  },
+  {
+    "codename": "axolotlte",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi Watch 2 Pro",
+    "model": "Xiaomi Watch 2 Pro",
+    "name": "Xiaomi Watch 2 Pro (Xiaomi Watch 2 Pro)"
   },
   {
     "codename": "yuechu",
