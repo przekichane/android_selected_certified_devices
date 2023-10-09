@@ -22463,6 +22463,13 @@
     "name": "Oppo OPG02_jp_kdi (OPG02)"
   },
   {
+    "codename": "OP561D",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO A1 5G",
+    "model": "PHS110",
+    "name": "OPPO A1 5G (PHS110)"
+  },
+  {
     "codename": "OP4EEA",
     "retail_branding": "Oppo",
     "marketing_name": "OPPO A33",
@@ -22538,6 +22545,13 @@
     "marketing_name": "OPPO K11 5G",
     "model": "PJC110",
     "name": "OPPO K11 5G (PJC110)"
+  },
+  {
+    "codename": "OP5925",
+    "retail_branding": "Oppo",
+    "marketing_name": "OPPO K11x 5G",
+    "model": "PHF110",
+    "name": "OPPO K11x 5G (PHF110)"
   },
   {
     "codename": "OP5223",
