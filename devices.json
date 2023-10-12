@@ -3164,6 +3164,20 @@
     "name": "Google Pixel 7a (Pixel 7a)"
   },
   {
+    "codename": "shiba",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 8",
+    "model": "Pixel 8",
+    "name": "Google Pixel 8 (Pixel 8)"
+  },
+  {
+    "codename": "husky",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel 8 Pro",
+    "model": "Pixel 8 Pro",
+    "name": "Google Pixel 8 Pro (Pixel 8 Pro)"
+  },
+  {
     "codename": "dragon",
     "retail_branding": "Google",
     "marketing_name": "Pixel C",
@@ -26451,6 +26465,13 @@
     "marketing_name": "Redmi Note 11 Pro",
     "model": "21091116C",
     "name": "Redmi Note 11 Pro (21091116C)"
+  },
+  {
+    "codename": "vida",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi Note 11 Pro",
+    "model": "2201116TI",
+    "name": "Redmi Note 11 Pro (2201116TI)"
   },
   {
     "codename": "viva",
