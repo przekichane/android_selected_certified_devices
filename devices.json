@@ -44597,6 +44597,13 @@
     "name": "Samsung Galaxy Tab S9 FE+ (SM-X610)"
   },
   {
+    "codename": "SCT22",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab S9 FE+ 5G",
+    "model": "SCT22",
+    "name": "Samsung Galaxy Tab S9 FE+ 5G (SCT22)"
+  },
+  {
     "codename": "gts9fep",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab S9 FE+ 5G",
