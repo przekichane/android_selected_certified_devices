@@ -3234,6 +3234,13 @@
     "name": "Google Pixel Watch (Google Pixel Watch)"
   },
   {
+    "codename": "aurora",
+    "retail_branding": "Google",
+    "marketing_name": "Pixel Watch 2",
+    "model": "Google Pixel Watch 2",
+    "name": "Google Pixel Watch 2 (Google Pixel Watch 2)"
+  },
+  {
     "codename": "eos",
     "retail_branding": "Google",
     "marketing_name": "Pixel Watch 2",
@@ -52939,6 +52946,13 @@
     "marketing_name": "MiTV",
     "model": "MiTV-MOOR1",
     "name": "Xiaomi MiTV (MiTV-MOOR1)"
+  },
+  {
+    "codename": "irobot",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "MiTV",
+    "model": "MiTV-MOSR3",
+    "name": "Xiaomi MiTV (MiTV-MOSR3)"
   },
   {
     "codename": "irobot",
