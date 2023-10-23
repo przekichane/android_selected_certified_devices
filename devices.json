@@ -20349,6 +20349,13 @@
     "name": "Oneplus_Dosa_IN (Oneplus_Dosa_IN)"
   },
   {
+    "codename": "OP5973L1",
+    "retail_branding": "OnePlus",
+    "marketing_name": "Open",
+    "model": "CPH2551",
+    "name": "OnePlus Open (CPH2551)"
+  },
+  {
     "codename": "OP5927",
     "retail_branding": "OnePlus",
     "marketing_name": "PHP110",
@@ -22195,6 +22202,13 @@
     "marketing_name": "Find N2 Flip \u4e2d\u56fd\u7248",
     "model": "PGT110",
     "name": "Oppo Find N2 Flip \u4e2d\u56fd\u7248 (PGT110)"
+  },
+  {
+    "codename": "OP56BBL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Find N3",
+    "model": "CPH2499",
+    "name": "Oppo Find N3 (CPH2499)"
   },
   {
     "codename": "CPH1871",
