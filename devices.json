@@ -18942,6 +18942,20 @@
     "name": "motorola edge 20 pro (motorola edge 20 pro)"
   },
   {
+    "codename": "aion",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge 2023",
+    "model": "motorola edge (2022)",
+    "name": "motorola edge 2023 (motorola edge (2022))"
+  },
+  {
+    "codename": "aion",
+    "retail_branding": "Motorola",
+    "marketing_name": "motorola edge 2023",
+    "model": "motorola edge 2023",
+    "name": "motorola edge 2023 (motorola edge 2023)"
+  },
+  {
     "codename": "dubai",
     "retail_branding": "Motorola",
     "marketing_name": "motorola edge 30",
@@ -34781,6 +34795,13 @@
     "marketing_name": "Galaxy Jump2",
     "model": "SM-M336K",
     "name": "Samsung Galaxy Jump2 (SM-M336K)"
+  },
+  {
+    "codename": "m44x",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Jump3",
+    "model": "SM-M446K",
+    "name": "Samsung Galaxy Jump3 (SM-M446K)"
   },
   {
     "codename": "SHW-M130K",
