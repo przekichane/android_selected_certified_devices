@@ -3479,6 +3479,20 @@
     "name": "HONOR Magic5 Pro (PGT-N19)"
   },
   {
+    "codename": "HNALI-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR Magic6 Lite 5G",
+    "model": "ALI-NX1",
+    "name": "HONOR Magic6 Lite 5G (ALI-NX1)"
+  },
+  {
+    "codename": "HNALI-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR Magic6 Lite 5G",
+    "model": "ALI-NX3",
+    "name": "HONOR Magic6 Lite 5G (ALI-NX3)"
+  },
+  {
     "codename": "HNHEY-Q",
     "retail_branding": "Honor",
     "marketing_name": "HONOR Pad 8",
@@ -3729,6 +3743,13 @@
     "marketing_name": "HONOR X9a 5G",
     "model": "RMO-NX1",
     "name": "HONOR X9a 5G (RMO-NX1)"
+  },
+  {
+    "codename": "HNALI-Q",
+    "retail_branding": "Honor",
+    "marketing_name": "HONOR X9b 5G",
+    "model": "ALI-NX1",
+    "name": "HONOR X9b 5G (ALI-NX1)"
   },
   {
     "codename": "HNRBN-Q",
@@ -20587,6 +20608,13 @@
     "name": "Oppo A17k (CPH2471)"
   },
   {
+    "codename": "OP575DL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A18",
+    "model": "CPH2591",
+    "name": "Oppo A18 (CPH2591)"
+  },
+  {
     "codename": "OP486C",
     "retail_branding": "Oppo",
     "marketing_name": "A1k",
@@ -20753,6 +20781,13 @@
     "marketing_name": "A37tm",
     "model": "OPPO A37tm",
     "name": "Oppo A37tm (OPPO A37tm)"
+  },
+  {
+    "codename": "OP5759L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A38",
+    "model": "CPH2579",
+    "name": "Oppo A38 (CPH2579)"
   },
   {
     "codename": "A39",
@@ -21257,6 +21292,20 @@
     "marketing_name": "A79",
     "model": "OPPO A79",
     "name": "Oppo A79 (OPPO A79)"
+  },
+  {
+    "codename": "OP573DL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A79 5G",
+    "model": "A303OP",
+    "name": "Oppo A79 5G (A303OP)"
+  },
+  {
+    "codename": "OP573DL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A79 5G",
+    "model": "CPH2553",
+    "name": "Oppo A79 5G (CPH2553)"
   },
   {
     "codename": "A79k",
@@ -22218,11 +22267,32 @@
     "name": "Oppo Find N2 Flip \u4e2d\u56fd\u7248 (PGT110)"
   },
   {
+    "codename": "OP55F3L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Find N3",
+    "model": "PHN110",
+    "name": "Oppo Find N3 (PHN110)"
+  },
+  {
     "codename": "OP56BBL1",
     "retail_branding": "Oppo",
     "marketing_name": "Find N3",
     "model": "CPH2499",
     "name": "Oppo Find N3 (CPH2499)"
+  },
+  {
+    "codename": "OP5607L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Find N3 Flip",
+    "model": "PHT110",
+    "name": "Oppo Find N3 Flip (PHT110)"
+  },
+  {
+    "codename": "OP56CFL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "Find N3 Flip",
+    "model": "CPH2519",
+    "name": "Oppo Find N3 Flip (CPH2519)"
   },
   {
     "codename": "CPH1871",
