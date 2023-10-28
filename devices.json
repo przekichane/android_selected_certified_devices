@@ -53056,6 +53056,13 @@
     "codename": "irobot",
     "retail_branding": "Xiaomi",
     "marketing_name": "MiTV",
+    "model": "MiTV-MOSR2",
+    "name": "Xiaomi MiTV (MiTV-MOSR2)"
+  },
+  {
+    "codename": "irobot",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "MiTV",
     "model": "MiTV-MOSR3",
     "name": "Xiaomi MiTV (MiTV-MOSR3)"
   },
