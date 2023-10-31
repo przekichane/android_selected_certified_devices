@@ -43400,6 +43400,13 @@
     "name": "Samsung Galaxy Tab A9+ 5G (SM-X218B)"
   },
   {
+    "codename": "gta9p",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy Tab A9+ 5G",
+    "model": "SM-X218U",
+    "name": "Samsung Galaxy Tab A9+ 5G (SM-X218U)"
+  },
+  {
     "codename": "rubenslte",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy Tab Active",
