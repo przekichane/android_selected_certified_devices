@@ -21308,6 +21308,13 @@
     "name": "Oppo A79 5G (CPH2553)"
   },
   {
+    "codename": "OP573DL1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A79 5G",
+    "model": "CPH2557",
+    "name": "Oppo A79 5G (CPH2557)"
+  },
+  {
     "codename": "A79k",
     "retail_branding": "Oppo",
     "marketing_name": "A79k",
@@ -53758,6 +53765,20 @@
     "marketing_name": "Xiaomi 13T Pro",
     "model": "A301XM",
     "name": "Xiaomi 13T Pro (A301XM)"
+  },
+  {
+    "codename": "houji",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 14",
+    "model": "23127PN0CC",
+    "name": "Xiaomi 14 (23127PN0CC)"
+  },
+  {
+    "codename": "shennong",
+    "retail_branding": "Xiaomi",
+    "marketing_name": "Xiaomi 14 Pro",
+    "model": "23116PN5BC",
+    "name": "Xiaomi 14 Pro (23116PN5BC)"
   },
   {
     "codename": "mona",
