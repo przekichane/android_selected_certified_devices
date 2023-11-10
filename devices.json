@@ -47890,6 +47890,13 @@
     "codename": "BRAVIA_VH2",
     "retail_branding": "Sony",
     "marketing_name": "BRAVIA VH2",
+    "model": "BRAVIA 2K VH2",
+    "name": "Sony BRAVIA VH2 (BRAVIA 2K VH2)"
+  },
+  {
+    "codename": "BRAVIA_VH2",
+    "retail_branding": "Sony",
+    "marketing_name": "BRAVIA VH2",
     "model": "BRAVIA 4K VH2",
     "name": "Sony BRAVIA VH2 (BRAVIA 4K VH2)"
   },
@@ -53961,13 +53968,6 @@
     "marketing_name": "RMX3268",
     "model": "RMX3268",
     "name": "realme RMX3268 (RMX3268)"
-  },
-  {
-    "codename": "RE588DL1",
-    "retail_branding": "realme",
-    "marketing_name": "RMX3612",
-    "model": "RMX3612",
-    "name": "realme RMX3612 (RMX3612)"
   },
   {
     "codename": "RE58AF",
