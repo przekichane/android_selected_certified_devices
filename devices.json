@@ -24738,6 +24738,13 @@
     "name": "POCO C55 (22127PC95I)"
   },
   {
+    "codename": "gust",
+    "retail_branding": "POCO",
+    "marketing_name": "POCO C65",
+    "model": "2310FPCA4G",
+    "name": "POCO C65 (2310FPCA4G)"
+  },
+  {
     "codename": "lmi",
     "retail_branding": "POCO",
     "marketing_name": "POCO F2 Pro",
@@ -25982,6 +25989,20 @@
     "marketing_name": "Redmi 12C",
     "model": "2212ARNC4L",
     "name": "Redmi 12C (2212ARNC4L)"
+  },
+  {
+    "codename": "gale",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 13C",
+    "model": "23100RN82L",
+    "name": "Redmi 13C (23100RN82L)"
+  },
+  {
+    "codename": "gale",
+    "retail_branding": "Redmi",
+    "marketing_name": "Redmi 13C",
+    "model": "23106RN0DA",
+    "name": "Redmi 13C (23106RN0DA)"
   },
   {
     "codename": "cereus",
@@ -53984,6 +54005,13 @@
     "name": "realme RMX3710 (RMX3710)"
   },
   {
+    "codename": "RE5C6CL1",
+    "retail_branding": "realme",
+    "marketing_name": "RMX3782",
+    "model": "RMX3782",
+    "name": "realme RMX3782 (RMX3782)"
+  },
+  {
     "codename": "mateo",
     "retail_branding": "realme",
     "marketing_name": "Smart TV",
@@ -54983,13 +55011,6 @@
     "marketing_name": "realme narzo 60 5G",
     "model": "RMX3750",
     "name": "realme narzo 60 5G (RMX3750)"
-  },
-  {
-    "codename": "RE5C6CL1",
-    "retail_branding": "realme",
-    "marketing_name": "realme narzo 60x 5G",
-    "model": "RMX3782",
-    "name": "realme narzo 60x 5G (RMX3782)"
   },
   {
     "codename": "RE58C6",
