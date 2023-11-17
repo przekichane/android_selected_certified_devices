@@ -15029,6 +15029,20 @@
     "name": "Motorola nan (MB501)"
   },
   {
+    "codename": "songshan",
+    "retail_branding": "Motorola",
+    "marketing_name": "4K TV",
+    "model": "SmartTV 4K",
+    "name": "Motorola 4K TV (SmartTV 4K)"
+  },
+  {
+    "codename": "songshan",
+    "retail_branding": "Motorola",
+    "marketing_name": "4K TV",
+    "model": "SmartTV 4K FFM",
+    "name": "Motorola 4K TV (SmartTV 4K FFM)"
+  },
+  {
     "codename": "redwood",
     "retail_branding": "Motorola",
     "marketing_name": "Android TV",
@@ -21271,6 +21285,13 @@
     "marketing_name": "A77 5G",
     "model": "CPH2339",
     "name": "Oppo A77 5G (CPH2339)"
+  },
+  {
+    "codename": "OP5745L1",
+    "retail_branding": "Oppo",
+    "marketing_name": "A78",
+    "model": "CPH2565",
+    "name": "Oppo A78 (CPH2565)"
   },
   {
     "codename": "OP52F3L1",
