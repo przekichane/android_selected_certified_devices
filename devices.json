@@ -19456,6 +19456,13 @@
     "codename": "lexl11g_64",
     "retail_branding": "Motorola Solutions",
     "marketing_name": "LEX L11",
+    "model": "LEX L11a",
+    "name": "Motorola Solutions LEX L11 (LEX L11a)"
+  },
+  {
+    "codename": "lexl11g_64",
+    "retail_branding": "Motorola Solutions",
+    "marketing_name": "LEX L11",
     "model": "LEX L11j",
     "name": "Motorola Solutions LEX L11 (LEX L11j)"
   },
