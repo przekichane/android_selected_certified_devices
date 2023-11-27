@@ -28031,6 +28031,13 @@
     "codename": "a05s",
     "retail_branding": "Samsung",
     "marketing_name": "Galaxy A05s",
+    "model": "SM-A057M",
+    "name": "Samsung Galaxy A05s (SM-A057M)"
+  },
+  {
+    "codename": "a05s",
+    "retail_branding": "Samsung",
+    "marketing_name": "Galaxy A05s",
     "model": "SM-E145F",
     "name": "Samsung Galaxy A05s (SM-E145F)"
   },
@@ -54831,6 +54838,13 @@
     "name": "realme Q3s\t (RMX3461)"
   },
   {
+    "codename": "RE547D",
+    "retail_branding": "realme",
+    "marketing_name": "realme Q5",
+    "model": "RMX3478",
+    "name": "realme Q5 (RMX3478)"
+  },
+  {
     "codename": "RE5477",
     "retail_branding": "realme",
     "marketing_name": "realme Q5 Pro",
@@ -55123,13 +55137,6 @@
     "marketing_name": "\u771f\u6211 Q3 Pro 5G",
     "model": "RMX2205",
     "name": "realme \u771f\u6211 Q3 Pro 5G (RMX2205)"
-  },
-  {
-    "codename": "RE547D",
-    "retail_branding": "realme",
-    "marketing_name": "\u771f\u6211 Q5",
-    "model": "RMX3478",
-    "name": "realme \u771f\u6211 Q5 (RMX3478)"
   },
   {
     "codename": "RE584B",
