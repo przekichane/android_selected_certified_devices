@@ -3,23 +3,6 @@
 import json
 import pandas as pd
 
-oems = (
-    "Asus",
-    "Google",
-    "Huawei",
-    "Honor",
-    "Motorola",
-    "Nothing",
-    "OnePlus",
-    "Oppo",
-    "POCO",
-    "realme",
-    "Redmi",
-    "Samsung",
-    "Sony",
-    "Xiaomi"
-)
-
 url = "http://storage.googleapis.com/play_public/supported_devices.csv"
 
 df = pd.read_csv(url, encoding="utf-16")
@@ -31,9 +14,6 @@ for line in df.itertuples():
     marketing_name  = str(line[2])
     device          = str(line[3])
     model           = str(line[4])
-
-    if not any(oem for oem in oems if retail_branding.lower().startswith(oem.lower())):
-        continue
 
     if marketing_name.lower().startswith(retail_branding.lower()):
         name = f"{marketing_name} ({model})"
