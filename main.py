@@ -33,4 +33,4 @@ for line in df.itertuples():
     )
 
 with open("devices.json", "w") as f:
-    f.write(json.dumps(devices, indent=2))
+    f.write(json.dumps(devices))
